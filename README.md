@@ -38,8 +38,6 @@ Then for each project, do run the following and open <http://localhost:6789>
     cd ..
     npx kosmtik serve stars/project.mml
 
-Ypu may want to convert vrt to shp using `ogr2ogr` and use `mapnik-index` for performances. This advice is valid if you want file based datasource, otherwise use a database or vector tiles but it's out of the scope of this sample.
-
 ### Arrrrrrr
 
     cd arrrrrrr
