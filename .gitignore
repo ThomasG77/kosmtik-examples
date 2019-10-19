@@ -1,2 +1,6 @@
 .DS_Store
 countries
+tmp
+*/data/
+package-lock.json
+node_modules
