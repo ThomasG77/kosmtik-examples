@@ -12,8 +12,6 @@ Map {
 }
 
 // data from: http://wildfire.cr.usgs.gov/firehistory/data.html
-// 116759 fires from 1980 to 2012
-// Watch out: v0.10.x has rendering hang when marker-width:0;
 #fire[SIZECLASSN > 0] {
   marker-width:[SIZECLASSN]*2;
   marker-line-width:0;

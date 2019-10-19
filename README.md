@@ -45,6 +45,12 @@ Then for each project, do run the following and open <http://localhost:6789>
     cd ..
     npx kosmtik serve arrrrrrr/project.mml
 
+### Colorize-alpha
+
+    cd colorize-alpha
+    sh download.sh
+    cd ..
+    npx kosmtik serve colorize-alpha/project.mml
 
 ## Speakers notes
 

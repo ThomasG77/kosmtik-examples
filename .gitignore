@@ -1,7 +1,8 @@
 .DS_Store
 countries
 tmp
-*/data/
 package-lock.json
 node_modules
+*/data/
 stars/layers/hygxyz.csv
+colorize-alpha/layers/wf_all_1980_2016.*
