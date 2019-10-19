@@ -13,10 +13,33 @@ Or you can use git to set the projects up within an existing documents directory
 
 ## Setup in existing project directory
 
-    cd ~/Documents/MapBox/project
-    git init .
-    git remote add origin https://github.com/springmeyer/tilemill-examples.git
-    git pull origin master
+    cd your_directory
+    git clone https://github.com/ThomasG77/tilemill-examples.git
+    nvm use lts/carbon
+    cd tilemill-examples
+    npm i
+    cd node_modules/kosmtik/
+    npm i
+    cd ../..
+
+Then for each project, do
+
+### City name
+
+    cd city-name
+    sh download.sh
+    cd ..
+    npx kosmtik serve city-name/project.mml
+
+### Stars
+
+    cd stars
+    sh download.sh
+    cd ..
+    npx kosmtik serve city-name/project.mml
+
+Ypu may want to convert vrt to shp using `ogr2ogr` and use `mapnik-index` for performances. This advice is valid if you want file based datasource, otherwise use a database or vector tiles but it's out of the scope of this sample.
+
 
 
 ## Speakers notes
