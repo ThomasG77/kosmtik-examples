@@ -22,7 +22,7 @@ Or you can use git to set the projects up within an existing documents directory
     npm i
     cd ../..
 
-Then for each project, do
+Then for each project, do run the following and open <http://localhost:6789>
 
 ### City name
 
@@ -40,6 +40,12 @@ Then for each project, do
 
 Ypu may want to convert vrt to shp using `ogr2ogr` and use `mapnik-index` for performances. This advice is valid if you want file based datasource, otherwise use a database or vector tiles but it's out of the scope of this sample.
 
+### Arrrrrrr
+
+    cd arrrrrrr
+    sh download.sh
+    cd ..
+    npx kosmtik serve arrrrrrr/project.mml
 
 
 ## Speakers notes
