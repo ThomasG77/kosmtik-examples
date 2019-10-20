@@ -37,6 +37,9 @@
         "dbname": "states",
         "id": "template",
         "project": "sql-on-the-fly",
+        "host": "localhost",
+        "user": "osm",
+        "password": "osm",
         "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over"
       },
       "id": "template",
@@ -44,16 +47,14 @@
       "srs-name": "900913",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
-      "name": "template",
       "status": "off"
     },
     {
       "id": "countries",
-      "name": "countries",
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "geometry": "polygon",
       "Datasource": {
-        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "file": "data/10m-admin-0-countries.shp",
         "type": "shape"
       }
     },
@@ -74,6 +75,9 @@
         "extent": "",
         "dbname": "states",
         "id": "sql",
+        "host": "localhost",
+        "user": "osm",
+        "password": "osm",
         "project": "sql-on-the-fly",
         "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
       },
@@ -81,8 +85,7 @@
       "class": "",
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
-      "advanced": {},
-      "name": "sql"
+      "advanced": {}
     }
   ],
   "scale": 1,
