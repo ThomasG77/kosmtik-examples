@@ -152,6 +152,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve pattern-compositing-smoothing/project.mml
 
+### Proportional symbol
+
+    cd proportional-symbol
+    sh download.sh
+    cd ..
+    npx kosmtik serve proportional-symbol/project.mml
+
 ### Stars
 
     cd stars
