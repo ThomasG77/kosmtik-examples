@@ -166,6 +166,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve shield-placements/project.mml
 
+### Single tint band
+
+    cd single-tint-band
+    sh download.sh
+    cd ..
+    npx kosmtik serve single-tint-band/project.mml
+
 ### Stars
 
     cd stars
