@@ -98,6 +98,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve fancy-formatted-label/project.mml
 
+### Feature dependent desaturation
+
+    cd feature-dependent-desaturation
+    sh download.sh
+    cd ..
+    npx kosmtik serve feature-dependent-desaturation/project.mml
+
 
 ## Speakers notes
 
