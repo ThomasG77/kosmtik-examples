@@ -159,6 +159,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve proportional-symbol/project.mml
 
+### Shield placements
+
+    cd shield-placements
+    sh download.sh
+    cd ..
+    npx kosmtik serve shield-placements/project.mml
+
 ### Stars
 
     cd stars
