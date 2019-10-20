@@ -144,6 +144,15 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve octocat-mask/project.mml
 
+### OSM data browser
+
+    # Optional, you can take a look if curious
+    # cd osm-data-browser
+    # sh processing.sh
+    # cd ..
+    npx kosmtik serve osm-data-browser/project.mml
+
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
