@@ -1,209 +1,2210 @@
-name,osm_id,amenity,geojson
-"The Well Community Church",279966414,"place_of_worship",'{"type":"Point","coordinates":[-122.6644221,45.5355807]}'
-"Ben & Jerry's",323588268,"fast_food",'{"type":"Point","coordinates":[-122.6813914,45.5252338]}'
-"Baja Fresh",323588269,"fast_food",'{"type":"Point","coordinates":[-122.68243,45.5230449]}'
-"Outdoor food court",323588279,"fast_food",'{"type":"Point","coordinates":[-122.6812633,45.5206615]}'
-"Henry's",323588284,"restaurant",'{"type":"Point","coordinates":[-122.6829364,45.523075]}'
-"Powell's Parking",323588295,"parking",'{"type":"Point","coordinates":[-122.6819836,45.5231892]}'
-"Pizza Schmizza",323588302,"fast_food",'{"type":"Point","coordinates":[-122.6820781,45.5263763]}'
-"Public Restroom",323588303,"toilets",'{"type":"Point","coordinates":[-122.6787628,45.5228714]}'
-"Starbucks",323588344,"cafe",'{"type":"Point","coordinates":[-122.6831076,45.5263853]}'
-"Sushi Land",323588346,"restaurant",'{"type":"Point","coordinates":[-122.6809708,45.5242837]}'
-"Shell",324193667,"fuel",'{"type":"Point","coordinates":[-122.6601222,45.5352911]}'
-"Starbucks",324193668,"cafe",'{"type":"Point","coordinates":[-122.6819431,45.5299043]}'
-"Bank of America",324193674,"bank",'{"type":"Point","coordinates":[-122.684298,45.5298849]}'
-"Quiznos",324193683,"fast_food",'{"type":"Point","coordinates":[-122.6855575,45.5299176]}'
-"Subway",324193697,"fast_food",'{"type":"Point","coordinates":[-122.6805393,45.5302369]}'
-"Starbucks",324193701,"cafe",'{"type":"Point","coordinates":[-122.6610914,45.5348691]}'
-"Shell",324193705,"fuel",'{"type":"Point","coordinates":[-122.6661573,45.5352771]}'
-"US Bank",324193715,"bank",'{"type":"Point","coordinates":[-122.68192,45.5297364]}'
-"El Gaucho",354922682,"restaurant",'{"type":"Point","coordinates":[-122.6786187,45.5214979]}'
-"",354923287,"parking",'{"type":"Point","coordinates":[-122.6784981,45.5207535]}'
-"76",355041404,"fuel",'{"type":"Point","coordinates":[-122.6748776,45.5228257]}'
-"Limbo Lounge",355041455,"pub",'{"type":"Point","coordinates":[-122.6736968,45.5228973]}'
-"Hunan",355041566,"restaurant",'{"type":"Point","coordinates":[-122.6793284,45.5204657]}'
-"Kell's Irish Pub",355219141,"pub",'{"type":"Point","coordinates":[-122.6724038,45.5216753]}'
-"Saint Patrick's Pub",355219145,"pub",'{"type":"Point","coordinates":[-122.6724542,45.5222514]}'
-"Ash Street Saloon",355219147,"pub",'{"type":"Point","coordinates":[-122.6729846,45.5223282]}'
-"",355219208,"telephone",'{"type":"Point","coordinates":[-122.6732003,45.5221489]}'
-"Voodoo Donut",355846370,"cafe",'{"type":"Point","coordinates":[-122.673138,45.5226348]}'
-"",357000731,"police",'{"type":"Point","coordinates":[-122.6705764,45.5247853]}'
-"Park Kitchen",357000733,"restaurant",'{"type":"Point","coordinates":[-122.6785072,45.5264614]}'
-"International Learning Program",357328903,"school",'{"type":"Point","coordinates":[-122.6539862,45.5202813]}'
-"Emerson School",357358051,"school",'{"type":"Point","coordinates":[-122.6794444,45.5238889]}'
-"Trillium Charter School",357358251,"school",'{"type":"Point","coordinates":[-122.6675,45.5391667]}'
-"Downtown Chapel of Saint Vincent de Paul Parish Church",357360689,"place_of_worship",'{"type":"Point","coordinates":[-122.6759904,45.5231721]}'
-"First Presbyterian Church",357360875,"place_of_worship",'{"type":"Point","coordinates":[-122.6842387,45.5211094]}'
-"Portland Rescue Mission",357361624,"place_of_worship",'{"type":"Point","coordinates":[-122.6716486,45.5233915]}'
-"Rosary Center",357361802,"place_of_worship",'{"type":"Point","coordinates":[-122.662909,45.5327419]}'
-"Saint Francis of Assisi Catholic Church",357361901,"place_of_worship",'{"type":"Point","coordinates":[-122.6541837,45.5205759]}'
-"Temple Baptist Church",357362251,"place_of_worship",'{"type":"Point","coordinates":[-122.6590212,45.532663]}'
-"Union Gospel Mission Lifechange Center",357362470,"place_of_worship",'{"type":"Point","coordinates":[-122.6730979,45.5232923]}'
-"Victory Temple Church of God in Christ",357362544,"place_of_worship",'{"type":"Point","coordinates":[-122.6623497,45.536555]}'
-"Holy Rosary Church",357363075,"place_of_worship",'{"type":"Point","coordinates":[-122.6617443,45.5329803]}'
-"Trillium School",357363396,"school",'{"type":"Point","coordinates":[-122.6671601,45.5393595]}'
-"Kindercorner Indoor Play Park",365796249,"kindergarten",'{"type":"Point","coordinates":[-122.6837887,45.520648]}'
-"Oregon State Office Building",365796388,"public_building",'{"type":"Point","coordinates":[-122.6578868,45.5282151]}'
-"Alder Street Child Development Center",365796392,"public_building",'{"type":"Point","coordinates":[-122.683614,45.5209813]}'
-"US Postal Service",420039185,"post_office",'{"type":"Point","coordinates":[-122.6572534,45.5360122]}'
-"Rogue",427150714,"pub",'{"type":"Point","coordinates":[-122.6850844,45.525897]}'
-"",427828009,"atm",'{"type":"Point","coordinates":[-122.6597958,45.5348688]}'
-"",427831991,"atm",'{"type":"Point","coordinates":[-122.662551,45.5341017]}'
-"",470103084,"fountain",'{"type":"Point","coordinates":[-122.65609,45.5317616]}'
-"Taco Bell",471786258,"fast_food",'{"type":"Point","coordinates":[-122.6579311,45.534617]}'
-"Muchas Gracias",471786260,"fast_food",'{"type":"Point","coordinates":[-122.6583431,45.5345088]}'
-"Chipotle",471787007,"fast_food",'{"type":"Point","coordinates":[-122.6583603,45.534118]}'
-"Burger King",471787257,"fast_food",'{"type":"Point","coordinates":[-122.6588924,45.5339857]}'
-"McDonald's",471787274,"fast_food",'{"type":"Point","coordinates":[-122.6604116,45.5340638]}'
-"Washman",471787407,"car_wash",'{"type":"Point","coordinates":[-122.6611927,45.5339737]}'
-"Starbucks",471787408,"cafe",'{"type":"Point","coordinates":[-122.6619308,45.5339075]}'
-"Wendy's",471787890,"fast_food",'{"type":"Point","coordinates":[-122.6611326,45.5333544]}'
-"Legacy Research Center",471792597,"hospital",'{"type":"Point","coordinates":[-122.6641275,45.5319446]}'
-"Oregon State Hospital",471792598,"hospital",'{"type":"Point","coordinates":[-122.6640502,45.5313494]}'
-"Walgreens",471796198,"pharmacy",'{"type":"Point","coordinates":[-122.6601278,45.534825]}'
-"Ambridge Event Center",471843445,"arts_centre",'{"type":"Point","coordinates":[-122.6622163,45.5324784]}'
-"BJ's",472581133,"restaurant",'{"type":"Point","coordinates":[-122.6569032,45.5345695]}'
-"Village Inn Pancake House",472581313,"restaurant",'{"type":"Point","coordinates":[-122.6558475,45.5346838]}'
-"Burgerville",474185561,"fast_food",'{"type":"Point","coordinates":[-122.6619874,45.5309668]}'
-"",476310278,"fountain",'{"type":"Point","coordinates":[-122.6524424,45.5261325]}'
-"",479562225,"post_box",'{"type":"Point","coordinates":[-122.679637,45.5273578]}'
-"",480521790,"telephone",'{"type":"Point","coordinates":[-122.6584619,45.5390972]}'
-"Red Robin",483745116,"restaurant",'{"type":"Point","coordinates":[-122.6610309,45.5312586]}'
-"andina",506857527,"restaurant",'{"type":"Point","coordinates":[-122.6845479,45.5263184]}'
-"Barista",506857528,"cafe",'{"type":"Point","coordinates":[-122.6845565,45.5268596]}'
-"Paragon",506857529,"restaurant",'{"type":"Point","coordinates":[-122.6845308,45.5274128]}'
-"PF Changs",506857532,"restaurant",'{"type":"Point","coordinates":[-122.6829257,45.523865]}'
-"PICA",506857533,"restaurant",'{"type":"Point","coordinates":[-122.6839612,45.5248982]}'
-"50 plates",506857534,"restaurant",'{"type":"Point","coordinates":[-122.6844621,45.5255788]}'
-"Cool Moon Ice Cream",519441125,"fast_food",'{"type":"Point","coordinates":[-122.6825422,45.5287978]}'
-"Urban Grind Coffee",519443396,"cafe",'{"type":"Point","coordinates":[-122.6855462,45.5294292]}'
-"",544598101,"parking",'{"type":"Point","coordinates":[-122.6785854,45.5250511]}'
-"",545064342,"post_box",'{"type":"Point","coordinates":[-122.6774016,45.525115]}'
-"",549566160,"post_box",'{"type":"Point","coordinates":[-122.685001,45.5242929]}'
-"",567251148,"post_box",'{"type":"Point","coordinates":[-122.681226,45.5214062]}'
-"",568913332,"post_box",'{"type":"Point","coordinates":[-122.6852526,45.5285269]}'
-"",568913521,"post_box",'{"type":"Point","coordinates":[-122.685244,45.5284488]}'
-"",568914984,"post_box",'{"type":"Point","coordinates":[-122.678069,45.5219184]}'
-"",575276209,"telephone",'{"type":"Point","coordinates":[-122.6756892,45.5265011]}'
-"",575422966,"post_box",'{"type":"Point","coordinates":[-122.676972,45.5288483]}'
-"Portland Loo",580219227,"toilets",'{"type":"Point","coordinates":[-122.6759815,45.526708]}'
-"Fuego Burrito Cart",590755702,"fast_food",'{"type":"Point","coordinates":[-122.683312,45.527297]}'
-"REI",593034295,"parking",'{"type":"Point","coordinates":[-122.6860944,45.5287873]}'
-"",596932545,"post_box",'{"type":"Point","coordinates":[-122.685116,45.5265979]}'
-"",603461808,"drinking_water",'{"type":"Point","coordinates":[-122.6783342,45.5219199]}'
-"",612015193,"telephone",'{"type":"Point","coordinates":[-122.6583378,45.535164]}'
-"",615090786,"post_box",'{"type":"Point","coordinates":[-122.6853769,45.5313423]}'
-"PeemKaw",621110758,"restaurant",'{"type":"Point","coordinates":[-122.679218,45.525378]}'
-"Boyd's Coffee",622837671,"cafe",'{"type":"Point","coordinates":[-122.6820454,45.5259118]}'
-"",622837672,"bank",'{"type":"Point","coordinates":[-122.6810316,45.526453]}'
-"",632028018,"post_box",'{"type":"Point","coordinates":[-122.680519,45.5210568]}'
-"",632028021,"telephone",'{"type":"Point","coordinates":[-122.678068,45.5224212]}'
-"USPS",632186067,"post_box",'{"type":"Point","coordinates":[-122.6726487,45.521223]}'
-"",635573907,"post_box",'{"type":"Point","coordinates":[-122.679027,45.520602]}'
-"",635573908,"telephone",'{"type":"Point","coordinates":[-122.6812916,45.5212372]}'
-"The Cultural Pearl",661311316,"cafe",'{"type":"Point","coordinates":[-122.6830634,45.5269877]}'
-"Fratelli",661311318,"restaurant",'{"type":"Point","coordinates":[-122.6838849,45.5271042]}'
-"Oba!",661311320,"bar",'{"type":"Point","coordinates":[-122.6834865,45.5270366]}'
-"Mudai",661811846,"restaurant",'{"type":"Point","coordinates":[-122.6574015,45.5352309]}'
-"",661827309,"post_box",'{"type":"Point","coordinates":[-122.679247,45.5243548]}'
-"",661827310,"drinking_water",'{"type":"Point","coordinates":[-122.6788901,45.5240842]}'
-"",663556157,"post_box",'{"type":"Point","coordinates":[-122.685414,45.5203489]}'
-"",663564110,"pub",'{"type":"Point","coordinates":[-122.6836538,45.5228287]}'
-"World Cafe",663564111,"cafe",'{"type":"Point","coordinates":[-122.6818054,45.5231091]}'
-"",663564114,"post_box",'{"type":"Point","coordinates":[-122.681041,45.5237587]}'
-"Babette",663797607,"cafe",'{"type":"Point","coordinates":[-122.6839654,45.5245394]}'
-"Blue Hour",663797613,"restaurant",'{"type":"Point","coordinates":[-122.6839762,45.5247778]}'
-"Everett Street Bistro",663797616,"restaurant",'{"type":"Point","coordinates":[-122.6829263,45.5252247]}'
-"Augen Gallery",663797625,"arts_centre",'{"type":"Point","coordinates":[-122.6777017,45.5236039]}'
-"Casey's",663797629,"cafe",'{"type":"Point","coordinates":[-122.676247,45.523638]}'
-"",663797630,"bar",'{"type":"Point","coordinates":[-122.676247,45.5234524]}'
-"Starbucks",664314253,"cafe",'{"type":"Point","coordinates":[-122.6779914,45.5206039]}'
-"Iron Stone Bank",664314254,"bank",'{"type":"Point","coordinates":[-122.6774973,45.5214911]}'
-"United States National Bank",664314255,"bank",'{"type":"Point","coordinates":[-122.6776844,45.5212971]}'
-"400Café",664314256,"cafe",'{"type":"Point","coordinates":[-122.6773119,45.5207973]}'
-"The Original: A Dinerant",664314258,"restaurant",'{"type":"Point","coordinates":[-122.676966,45.5213495]}'
-"Café Vélo",664314262,"cafe",'{"type":"Point","coordinates":[-122.6770361,45.5223447]}'
-"",664314269,"bicycle_parking",'{"type":"Point","coordinates":[-122.6764896,45.5225872]}'
-"Satyricon PDX",664314272,"cinema",'{"type":"Point","coordinates":[-122.6766801,45.5241805]}'
-"Sisters of the Road",664314273,"cafe",'{"type":"Point","coordinates":[-122.6766485,45.5243715]}'
-"Gotham Tavern",664314287,"restaurant",'{"type":"Point","coordinates":[-122.67445,45.5391972]}'
-"",664314330,"bicycle_parking",'{"type":"Point","coordinates":[-122.6638887,45.5297951]}'
-"Newport Seafood Grill",664314337,"restaurant",'{"type":"Point","coordinates":[-122.6531083,45.5345909]}'
-"",669128428,"cafe",'{"type":"Point","coordinates":[-122.6763978,45.5218544]}'
-"",669128430,"post_box",'{"type":"Point","coordinates":[-122.6776841,45.5266963]}'
-"",671060126,"telephone",'{"type":"Point","coordinates":[-122.67183,45.5212662]}'
-"",677232465,"drinking_water",'{"type":"Point","coordinates":[-122.6764816,45.528121]}'
-"Chipotle",708297020,"fast_food",'{"type":"Point","coordinates":[-122.6835942,45.5301767]}'
-"",736003191,"post_box",'{"type":"Point","coordinates":[-122.6765998,45.5312399]}'
-"",797787717,"fountain",'{"type":"Point","coordinates":[-122.6752908,45.5226837]}'
-"Groove Suite",810983831,"bar",'{"type":"Point","coordinates":[-122.6749056,45.5265114]}'
-"USPS",818034314,"post_box",'{"type":"Point","coordinates":[-122.6846476,45.5221614]}'
-"USPS",818034319,"post_box",'{"type":"Point","coordinates":[-122.6756833,45.5219974]}'
-"J Cafe",839239723,"cafe",'{"type":"Point","coordinates":[-122.6599181,45.5302751]}'
-"Red Coach",847306264,"restaurant",'{"type":"Point","coordinates":[-122.6794077,45.5203971]}'
-"Doug Fir",891315831,"nightclub",'{"type":"Point","coordinates":[-122.6568402,45.5226548]}'
-"The Farm",891315834,"restaurant",'{"type":"Point","coordinates":[-122.6584696,45.5226557]}'
-"USPS",891315837,"post_box",'{"type":"Point","coordinates":[-122.6577804,45.5230037]}'
-"Le Pigeon",891315840,"restaurant",'{"type":"Point","coordinates":[-122.6578434,45.5228346]}'
-"Doug Fir Lounge",891315843,"restaurant",'{"type":"Point","coordinates":[-122.6568474,45.5227986]}'
-"Saucebox",937462769,"bar",'{"type":"Point","coordinates":[-122.677814,45.5224096]}'
-"Bailey's Taproom",937462770,"pub",'{"type":"Point","coordinates":[-122.6781037,45.5225204]}'
-"Mary's Club",937462771,"bar",'{"type":"Point","coordinates":[-122.6778113,45.5227647]}'
-"",937462773,"drinking_water",'{"type":"Point","coordinates":[-122.6764729,45.5273715]}'
-"Gilt Club",937462774,"restaurant",'{"type":"Point","coordinates":[-122.6772936,45.5253448]}'
-"Tiger Bar",937462775,"bar",'{"type":"Point","coordinates":[-122.6776638,45.5253805]}'
-"Whole Bowl",974984611,"fast_food",'{"type":"Point","coordinates":[-122.6825076,45.5264362]}'
-"Mio Gelato",1066962883,"cafe",'{"type":"Point","coordinates":[-122.6823138,45.5231891]}'
-"Tube",1234799977,"bar",'{"type":"Point","coordinates":[-122.673211,45.5234917]}'
-"Yes and No",1234800640,"bar",'{"type":"Point","coordinates":[-122.6732169,45.5235672]}'
-"Wilf's Restaurant",1306161310,"restaurant",'{"type":"Point","coordinates":[-122.6762666,45.5286287]}'
-"Ground Kontrol Arcade",1374366235,"pub",'{"type":"Point","coordinates":[-122.6758279,45.5239382]}'
-"Trader Vics",1378950501,"restaurant",'{"type":"Point","coordinates":[-122.6835207,45.526649]}'
-"Sisters Coffee Company",1424642116,"cafe",'{"type":"Point","coordinates":[-122.6842742,45.5308474]}'
-"Pedal Bike Tours And Rentals",1468688328,"bicycle_rental",'{"type":"Point","coordinates":[-122.672765,45.521566]}'
-"Silk",1558920092,"restaurant",'{"type":"Point","coordinates":[-122.6814037,45.5264277]}'
-"Metrovino",1558920094,"restaurant",'{"type":"Point","coordinates":[-122.6826563,45.5313883]}'
-"The Black Rooster Café",1572093727,"cafe",'{"type":"Point","coordinates":[-122.6811569,45.5215244]}'
-"Tugboat Brewing Company",1585329752,"pub",'{"type":"Point","coordinates":[-122.6781301,45.522695]}'
-"Banner Bank",1686720548,"bank",'{"type":"Point","coordinates":[-122.6811723,45.5295189]}'
-"Living Room Theatres",1687720172,"cinema",'{"type":"Point","coordinates":[-122.6812847,45.5222368]}'
-"The Portland Loo",1687765788,"toilets",'{"type":"Point","coordinates":[-122.6821782,45.5287313]}'
-"",1703213410,"post_box",'{"type":"Point","coordinates":[-122.6806626,45.5204629]}'
-"",1704927312,"fountain",'{"type":"Point","coordinates":[-122.6817909,45.5290808]}'
-"",1713162580,"bench",'{"type":"Point","coordinates":[-122.6679729,45.5328856]}'
-"",1713162586,"bench",'{"type":"Point","coordinates":[-122.6681086,45.5328877]}'
-"",1713162617,"bench",'{"type":"Point","coordinates":[-122.6681123,45.5329051]}'
-"",1713162753,"shelter",'{"type":"Point","coordinates":[-122.6684444,45.5329701]}'
-"Noble Rot",1811986406,"restaurant",'{"type":"Point","coordinates":[-122.654324,45.5230629]}'
-"",1860629068,"atm",'{"type":"Point","coordinates":[-122.656319,45.5339438]}'
-"Spirit of '77",1947887413,"pub",'{"type":"Point","coordinates":[-122.6614699,45.526692]}'
-"Valentine's",1947887414,"bar",'{"type":"Point","coordinates":[-122.6727057,45.5224714]}'
-"Old Wives' Tales",1947933644,"restaurant",'{"type":"Point","coordinates":[-122.6523751,45.5227314]}'
-"B-Side",1947949881,"bar",'{"type":"Point","coordinates":[-122.6589606,45.5227756]}'
-"Sizzle Pie",1947949884,"restaurant",'{"type":"Point","coordinates":[-122.6590827,45.5227774]}'
-"Rontoms",1947949896,"bar",'{"type":"Point","coordinates":[-122.6595358,45.5227737]}'
-"Clyde Common",1957365016,"restaurant",'{"type":"Point","coordinates":[-122.6814201,45.5220045]}'
-"Kenny and Zuke's Delicatessen",1957365020,"restaurant",'{"type":"Point","coordinates":[-122.6819056,45.522131]}'
-"Santeria",1957365037,"restaurant",'{"type":"Point","coordinates":[-122.6779689,45.5226781]}'
-"Stumptown",1957365047,"cafe",'{"type":"Point","coordinates":[-122.6817287,45.5220899]}'
-"The Cleaners",1959281935,"event_space",'{"type":"Point","coordinates":[-122.6812305,45.5219596]}'
-"",1959282098,"bicycle_parking",'{"type":"Point","coordinates":[-122.6821062,45.5245671]}'
-"Burnside Brewing Co.",1963188104,"restaurant",'{"type":"Point","coordinates":[-122.6584695,45.5233261]}'
-"J & M Cafe",1963211262,"restaurant",'{"type":"Point","coordinates":[-122.6602647,45.5223254]}'
-"Boxx",1964043591,"nightclub",'{"type":"Point","coordinates":[-122.6819148,45.5225302]}'
-"",1967398070,"bicycle_parking",'{"type":"Point","coordinates":[-122.6631497,45.5298816]}'
-"",1968955543,"fire_hydrant",'{"type":"Point","coordinates":[-122.6803585,45.5266816]}'
-"",1968955546,"fire_hydrant",'{"type":"Point","coordinates":[-122.6810296,45.5266753]}'
-"",1968955548,"fire_hydrant",'{"type":"Point","coordinates":[-122.6812951,45.5265776]}'
-"",1968955549,"post_box",'{"type":"Point","coordinates":[-122.6813082,45.5265729]}'
-"",1968955563,"fire_hydrant",'{"type":"Point","coordinates":[-122.6823156,45.5265439]}'
-"",1968955564,"fire_hydrant",'{"type":"Point","coordinates":[-122.68242,45.5265885]}'
-"",1968955568,"fire_hydrant",'{"type":"Point","coordinates":[-122.6821643,45.5258745]}'
-"",1968955573,"fire_hydrant",'{"type":"Point","coordinates":[-122.6820148,45.5252096]}'
-"",1968955599,"fire_hydrant",'{"type":"Point","coordinates":[-122.6812003,45.524592]}'
-"",1968955600,"fire_hydrant",'{"type":"Point","coordinates":[-122.681157,45.5231011]}'
-"",1969000025,"fire_hydrant",'{"type":"Point","coordinates":[-122.6812742,45.5235825]}'
-"sushi land",1969000032,"restaurant",'{"type":"Point","coordinates":[-122.6812987,45.5241747]}'
-"",1969000039,"fire_hydrant",'{"type":"Point","coordinates":[-122.6812102,45.5243484]}'
-"",1969000049,"fire_hydrant",'{"type":"Point","coordinates":[-122.6812025,45.525027]}'
-"",1969000055,"fire_hydrant",'{"type":"Point","coordinates":[-122.6821907,45.5250579]}'
+name,osm_id,amenity,x,y
+Pizza Schmizza,323588302,fast_food,-122.6820853,45.5264071
+,323588303,toilets,-122.6787628,45.5228714
+,357000731,police,-122.6705764,45.5247853
+Park Kitchen,357000733,restaurant,-122.6783966,45.5263112
+Temple Baptist Church,357362251,place_of_worship,-122.6590212,45.532663
+Union Gospel Mission Lifechange Center,357362470,place_of_worship,-122.673667,45.5233225
+Victory Temple Church of God in Christ,357362544,place_of_worship,-122.6623497,45.536555
+Holy Rosary Church,357363075,place_of_worship,-122.6617443,45.5329803
+,427828009,atm,-122.6598151,45.5348885
+,476310278,drinking_water,-122.6524424,45.5261325
+,479562225,post_box,-122.679637,45.5273578
+,480521790,telephone,-122.6584619,45.5390972
+,545064342,post_box,-122.6774016,45.525115
+,549566160,post_box,-122.685001,45.5242929
+,567251148,post_box,-122.6812348,45.5214079
+,568913332,post_box,-122.6852714,45.5285262
+,568913521,post_box,-122.6852714,45.5285162
+,568914984,post_box,-122.6779817,45.5220235
+,575422966,post_box,-122.6769109,45.5288972
+The Portland Loo,580219227,toilets,-122.6759815,45.526708
+,596932545,post_box,-122.68516,45.5265562
+,603461808,drinking_water,-122.6783598,45.5219389
+,612015193,telephone,-122.6584016,45.5351525
+,615090786,post_box,-122.6854033,45.5313708
+Butterfly Belly Asian Cuisine,621110758,restaurant,-122.6793577,45.5255788
+,632186067,post_box,-122.6726487,45.521223
+,635573907,post_box,-122.6790776,45.5205914
+,661827309,post_box,-122.6792765,45.5243943
+,661827310,drinking_water,-122.6788901,45.5240842
+Al's Den,663564110,bar,-122.6835885,45.5228045
+World Cup Coffee & Tea,663564111,cafe,-122.6819149,45.5231098
+,663564114,post_box,-122.6810207,45.5237538
+Augen Gallery,663797625,arts_centre,-122.6778328,45.5243378
+First Citizens Bank,664314254,bank,-122.6775482,45.5217274
+,664314269,bicycle_parking,-122.6764557,45.5226009
+Sisters of the Road,664314273,cafe,-122.6766554,45.5243457
+Gotham Tavern,664314287,restaurant,-122.67445,45.5391972
+,664314330,bicycle_parking,-122.6638887,45.5297951
+Prime Rib & Chocolate Cake,664314337,restaurant,-122.6531405,45.5345251
+Starbucks,669128428,cafe,-122.6764193,45.5217867
+,669128430,post_box,-122.6776841,45.5266963
+,677232465,drinking_water,-122.6765541,45.5281914
+,736003191,post_box,-122.6765998,45.5312399
+Car Wash,797787717,fountain,-122.6752908,45.5226837
+,818034314,post_box,-122.6846476,45.5221614
+J Cafe,839239723,cafe,-122.6598766,45.5301775
+Doug Fir,891315831,nightclub,-122.6568402,45.5226548
+Doug Fir Lounge,891315843,restaurant,-122.6568779,45.522793
+,937462773,drinking_water,-122.6765278,45.5274616
+Whole Bowl,974984611,fast_food,-122.682718,45.5264169
+Wilf's Restaurant,1306161310,restaurant,-122.6762666,45.5286287
+,1410444363,parking_entrance,-122.6631852,45.5269179
+Phó Văn Fresh,1558920092,restaurant,-122.6814308,45.5264214
+,1588761782,parking_entrance,-122.6683418,45.5319277
+,1651281491,clock,-122.6766156,45.5209115
+The Portland Loo,1687765788,toilets,-122.6821782,45.5287313
+,1703213410,post_box,-122.6805966,45.5204307
+,1704927312,fountain,-122.6817909,45.5290808
+,1713162580,bench,-122.6679729,45.5328856
+,1713162586,bench,-122.6681086,45.5328877
+,1713162617,bench,-122.6681123,45.5329051
+,1713162753,shelter,-122.6684444,45.5329701
+Noble Rot,1811986406,restaurant,-122.6541573,45.5230413
+,1829184912,parking_entrance,-122.6537893,45.5295796
+,1860629068,atm,-122.656319,45.5339438
+Spirit of '77,1947887413,pub,-122.6614699,45.526692
+,1959282098,bicycle_parking,-122.6821115,45.5245496
+Burnside Brewing Co.,1963188104,pub,-122.6584695,45.5233261
+Pearl District Dental,1968955547,dentist,-122.6810456,45.526678
+,1968955549,post_box,-122.6813834,45.5266205
+Hotlips Pizza,1970544872,fast_food,-122.68074,45.528276
+Laughing Planet,1970544873,restaurant,-122.6807498,45.5284161
+Ox Restaurant,1975835339,restaurant,-122.6618113,45.5394166
+Whey Bar,1975835340,bar,-122.6619962,45.5394147
+,1981602461,bicycle_parking,-122.6534928,45.5316406
+,1981602463,bicycle_parking,-122.6559093,45.5319994
+,2156756379,bicycle_parking,-122.6585193,45.5297554
+,2156756380,bicycle_parking,-122.658405,45.5299432
+Alexis Restaurant,2172271797,restaurant,-122.6726712,45.5233211
+Pints Everyday Cafe,2173094802,cafe,-122.6753614,45.5262004
+Prasad,2174824087,restaurant,-122.6806866,45.5245259
+J. Pepin,2174824165,arts_centre,-122.6803256,45.525355
+,2176778188,parking_entrance,-122.6826961,45.5244648
+Tiny's Coffee,2274345875,cafe,-122.6618817,45.5376342
+Schmizza Pub & Grub,2285929032,restaurant,-122.6587607,45.53494
+,2368762537,atm,-122.681154,45.527413
+,2368765985,bicycle_parking,-122.681191,45.527486
+,2368782352,bench,-122.681575,45.528825
+,2368783131,bench,-122.681662,45.528812
+,2368783552,drinking_water,-122.681842,45.528814
+,2368784300,bench,-122.681974,45.528813
+,2368784594,bench,-122.682029,45.528811
+,2369157092,bench,-122.678994,45.525455
+,2371163380,bench,-122.682097,45.529356
+,2371163460,bench,-122.682019,45.529352
+,2371172245,bicycle_parking,-122.680878,45.528076
+,2372451488,bicycle_parking,-122.680416,45.527323
+,2372455033,bicycle_parking,-122.679295,45.526796
+,2372455616,drinking_water,-122.678886,45.52648
+,2372547194,bicycle_parking,-122.678658,45.525632
+,2372552216,bicycle_parking,-122.67868,45.526389
+,2375124887,atm,-122.6735631,45.5224133
+,2375124931,drinking_water,-122.6713805,45.5230099
+,2375124934,drinking_water,-122.6712177,45.5231671
+Food Court,2375124938,food_court,-122.6535763,45.5328048
+,2379421622,bench,-122.68251,45.5279864
+,2379422302,bench,-122.682419,45.527954
+,2379422900,bench,-122.6824998,45.5279092
+,2379423428,bench,-122.6826997,45.5279041
+,2379423551,bench,-122.682669,45.527982
+,2380508688,bicycle_parking,-122.684449,45.526535
+,2380512827,bicycle_parking,-122.6844555,45.5272601
+,2380518838,bicycle_parking,-122.683957,45.527979
+,2380522292,bicycle_parking,-122.683401,45.528084
+,2380525764,bicycle_parking,-122.6834,45.528305
+,2380533302,bicycle_parking,-122.683406,45.52849
+,2380533532,bicycle_parking,-122.6828199,45.5287568
+,2502048016,drinking_water,-122.680624,45.5283396
+,2503337802,bicycle_parking,-122.6717289,45.5238153
+,2503339296,toilets,-122.6717034,45.5233669
+,2503342003,toilets,-122.6707247,45.5247265
+,2505189745,bicycle_parking,-122.6735951,45.5217067
+,2506628067,bicycle_parking,-122.680062,45.525798
+,2506628452,bicycle_parking,-122.680062,45.525912
+,2507407934,bicycle_parking,-122.68095,45.528351
+,2507407989,bicycle_parking,-122.680949,45.528305
+,2507811372,bicycle_parking,-122.683223,45.523548
+,2511963966,bicycle_parking,-122.6811618,45.5263842
+,2513155612,bicycle_parking,-122.681305,45.526366
+,2513224427,bicycle_parking,-122.6822484,45.523152
+,2513225384,bicycle_parking,-122.6822487,45.5231881
+,2513233651,bicycle_parking,-122.681223,45.523483
+,2513236857,bicycle_parking,-122.6811128,45.5252779
+,2514278686,bicycle_parking,-122.681324,45.52621
+,2514279193,bicycle_parking,-122.681295,45.526042
+,2514296841,bicycle_parking,-122.681209,45.523157
+,2514299032,bicycle_parking,-122.681215,45.523347
+,2515114498,bicycle_parking,-122.671946,45.520283
+,2515444134,bicycle_parking,-122.6811385,45.5257288
+,2515445013,bicycle_parking,-122.6811371,45.5256863
+,2515447143,bicycle_parking,-122.6811384,45.5256323
+,2515449595,bicycle_parking,-122.68112,45.525514
+,2515506716,bicycle_parking,-122.681027,45.5231
+Portland Saturday Market,2539177225,marketplace,-122.6697912,45.5227219
+Skidmore Market,2539201585,marketplace,-122.6716915,45.5224569
+Rite Aid,2539262854,pharmacy,-122.6810898,45.527385
+Burrito Bar,2545360663,restaurant,-122.6804324,45.5274342
+,2857264905,bicycle_parking,-122.6601573,45.5277866
+,2858135040,atm,-122.67654,45.5204521
+,3065916133,post_box,-122.6782656,45.5231334
+,3283478396,parking_entrance,-122.6844003,45.5209277
+,3291927969,atm,-122.6745765,45.5239487
+,3292001374,waste_basket,-122.6755089,45.5237045
+,3292001385,waste_basket,-122.6755728,45.5238489
+,3292001397,waste_basket,-122.6753752,45.5239193
+,3293105244,waste_basket,-122.6854057,45.5250846
+,3293105245,bicycle_parking,-122.6840033,45.525126
+The Mezz,3293194839,cafe,-122.6833546,45.5235142
+,3293195873,bicycle_parking,-122.6834475,45.5220343
+,3293195901,waste_basket,-122.6830342,45.5236193
+,3293195902,bench,-122.6830031,45.5236205
+Le Cordon Bleu,3293303180,college,-122.6810685,45.5203297
+USPS,3293303207,post_box,-122.6817244,45.520526
+,3451072081,waste_basket,-122.6658607,45.5283268
+,3468162468,drinking_water,-122.6723097,45.5202999
+,3476998683,bench,-122.6834061,45.5259086
+,3476998684,waste_basket,-122.6831023,45.5258557
+,3476999397,waste_basket,-122.6833876,45.5258472
+,3477026759,waste_basket,-122.6819952,45.5257665
+,3477205818,bench,-122.6812637,45.528507
+,3477205819,waste_basket,-122.6813133,45.5291203
+,3477205820,bench,-122.6812908,45.5297374
+,3477205821,waste_basket,-122.6810453,45.5266025
+,3477205822,waste_basket,-122.6812358,45.5283889
+,3477205825,telephone,-122.681096,45.5271991
+,3477205826,bench,-122.6812358,45.5284074
+,3477205827,bench,-122.6813019,45.5290802
+,3477205828,waste_basket,-122.681284,45.5295693
+,3477214643,bench,-122.6814273,45.5291476
+,3477214646,bench,-122.6814069,45.5289137
+,3477214647,waste_basket,-122.6822002,45.5287584
+,3477214648,bench,-122.6814229,45.5290304
+,3477214649,waste_basket,-122.681483,45.528768
+,3477214650,waste_basket,-122.6824111,45.5287805
+Oak Street Coffee,3492633633,cafe,-122.6781571,45.521664
+,3492633650,waste_basket,-122.6773169,45.5217432
+,3492633651,recycling,-122.6773323,45.5217471
+,3492633652,parking_entrance,-122.677848,45.521843
+,3497706016,waste_basket,-122.6773992,45.5211449
+,3497706017,recycling,-122.6773898,45.521161
+,3497706018,waste_basket,-122.6775818,45.5211834
+,3497706019,recycling,-122.6775725,45.5211994
+,3497706022,bicycle_parking,-122.6771714,45.5215742
+,3497706023,recycling,-122.6771642,45.5215865
+,3497706024,waste_basket,-122.6771558,45.5216017
+,3497706044,bicycle_parking,-122.6801478,45.5226987
+,3497706051,bicycle_parking,-122.6801514,45.522788
+,3497706064,bicycle_parking,-122.6801553,45.5228878
+Armory Cafe,3498112765,restaurant,-122.6818109,45.5242346
+,3498112772,parking_entrance,-122.6820257,45.5232471
+,3498112774,atm,-122.6813241,45.5233198
+,3498112775,bicycle_parking,-122.6820729,45.523583
+,3498112778,bench,-122.681936,45.5237573
+,3498112780,waste_basket,-122.6812209,45.5238289
+,3498112788,waste_basket,-122.6812441,45.5243316
+,3516748216,parking_entrance,-122.6798831,45.5207607
+,3518131233,bench,-122.6819393,45.5326034
+,3518131234,bench,-122.6816873,45.5326335
+,3518131235,bench,-122.6821461,45.5326699
+,3518227543,bench,-122.6822357,45.5332427
+,3518227544,bench,-122.6816694,45.5333241
+,3518227545,bench,-122.682061,45.5333608
+,3595089459,bicycle_parking,-122.682086,45.5202913
+,3595089469,bicycle_parking,-122.6829928,45.5203603
+,3595089471,bicycle_parking,-122.6841406,45.5203765
+,3595089477,bicycle_parking,-122.6829675,45.5204092
+,3595089478,bicycle_parking,-122.6831498,45.5204185
+,3595089479,bicycle_parking,-122.6843419,45.5204185
+,3595089482,bicycle_parking,-122.6841182,45.5204334
+,3595089484,bench,-122.6839906,45.5204529
+,3595089486,waste_basket,-122.6829319,45.5204565
+,3595089487,bicycle_parking,-122.6843192,45.5204623
+,3595089491,bicycle_parking,-122.6837813,45.5205092
+,3595089492,bicycle_parking,-122.6838472,45.5205267
+,3595089495,bicycle_parking,-122.6830904,45.5205653
+,3595089496,bicycle_parking,-122.6819181,45.5205703
+,3595089506,bicycle_parking,-122.6820087,45.52069
+,3595089510,bicycle_parking,-122.6822143,45.5207447
+,3595089513,bicycle_parking,-122.6823425,45.5207788
+,3595089516,bicycle_parking,-122.6824585,45.5208097
+,3595089517,bicycle_parking,-122.6825904,45.5208448
+,3595089523,waste_basket,-122.682921,45.5210462
+,3595089524,bicycle_parking,-122.6829567,45.5210556
+,3595089525,bicycle_parking,-122.6834181,45.5210605
+,3595089526,bicycle_parking,-122.6836183,45.5211129
+,3595089527,waste_basket,-122.6836579,45.5211232
+,3601494331,waste_basket,-122.6818938,45.5250503
+,3605557888,bicycle_parking,-122.658432,45.534245
+Lloyd Athletic Club,3605557889,bicycle_parking,-122.657272,45.533768
+,3605557890,bicycle_parking,-122.657143,45.533722
+,3605557891,bicycle_parking,-122.661858,45.534
+,3605557892,bicycle_parking,-122.663338,45.534161
+Holladay Park Fountain,3609289859,fountain,-122.6535554,45.5308384
+,3609309224,drinking_water,-122.6533037,45.5306252
+,3609309226,bench,-122.6532711,45.5306081
+,3609549740,bicycle_parking,-122.6550033,45.5294197
+,3609549741,bicycle_parking,-122.6550244,45.5294195
+,3609573188,bicycle_parking,-122.6550902,45.5293552
+,3609583532,bicycle_parking,-122.6551329,45.5293581
+,3609583533,bicycle_parking,-122.6550904,45.529475
+,3613178314,bicycle_parking,-122.6573655,45.5317135
+,3613178315,bicycle_parking,-122.6574854,45.5317447
+,3621107693,drinking_water,-122.67563,45.525828
+,3621108293,post_box,-122.6756622,45.5260125
+,3633741493,post_box,-122.683487,45.529297
+,3640031607,bicycle_parking,-122.668182,45.531971
+Rose Quarter Parking Garage East (U),3640031608,bicycle_parking,-122.668633,45.533207
+Rose Quarter Parking Garage West (U),3640031609,bicycle_parking,-122.668861,45.533203
+,3640031610,bicycle_parking,-122.668411,45.532288
+,3640041425,bicycle_parking,-122.6575248,45.5349517
+,3640041426,bicycle_parking,-122.6589298,45.5349827
+,3640041427,bicycle_parking,-122.659058,45.535152
+,3640041428,bicycle_parking,-122.6581208,45.5351544
+,3640041429,bicycle_parking,-122.658281,45.5351513
+,3640045023,bicycle_parking,-122.662689,45.531723
+,3640045024,bicycle_parking,-122.661789,45.531891
+,3640045025,bicycle_parking,-122.662697,45.531898
+,3640045026,bicycle_parking,-122.661781,45.531998
+,3640045027,bicycle_parking,-122.662697,45.532082
+,3640045028,bicycle_parking,-122.662003,45.532162
+,3640045029,bicycle_parking,-122.662277,45.532166
+,3640045030,bicycle_parking,-122.662468,45.532166
+,3640045031,bicycle_parking,-122.656181,45.534969
+,3640045032,bicycle_parking,-122.652855,45.535126
+,3640045033,bicycle_parking,-122.653648,45.53513
+,3640045034,bicycle_parking,-122.654922,45.535133
+,3640045035,bicycle_parking,-122.655304,45.535133
+,3640045036,bicycle_parking,-122.65403,45.535141
+,3640045037,bicycle_parking,-122.654266,45.535141
+,3640045038,bicycle_parking,-122.655854,45.5351442
+,3647941404,waste_basket,-122.6813019,45.5257227
+,3649406283,bicycle_parking,-122.6674812,45.5307258
+,3649464413,bicycle_parking,-122.6533164,45.5347822
+,3649464414,bicycle_parking,-122.6534272,45.5348101
+,3662460789,parking_entrance,-122.6583804,45.5281668
+,3662460797,bicycle_parking,-122.657493,45.5285781
+,3662460799,bicycle_parking,-122.6578077,45.5285821
+,3662460800,bicycle_parking,-122.6577124,45.5285835
+,3662460806,bicycle_parking,-122.6569162,45.5286698
+,3662460807,bicycle_parking,-122.6574912,45.5286725
+,3662460809,bicycle_parking,-122.65777,45.5286788
+,3662460812,waste_basket,-122.6570238,45.5287407
+,3662460816,bicycle_parking,-122.6575712,45.5289201
+,3662460817,waste_basket,-122.6575573,45.5289444
+,3662460818,bench,-122.6575553,45.5289674
+,3662460819,bicycle_parking,-122.6575712,45.5290703
+,3662461927,post_box,-122.6577677,45.5292712
+,3662461928,post_box,-122.6577895,45.5292712
+,3662461929,bicycle_parking,-122.6563562,45.5293314
+,3662461931,bicycle_parking,-122.6563969,45.5293696
+,3662461945,parking_entrance,-122.6544282,45.529639
+,3662461953,waste_basket,-122.6575729,45.529933
+,3662461954,waste_basket,-122.6576739,45.5299364
+,3662461959,post_box,-122.6528627,45.529955
+,3662461960,post_box,-122.6528788,45.529955
+,3662461966,waste_basket,-122.6530002,45.530409
+,3662461967,bench,-122.6531154,45.5304868
+,3663748951,atm,-122.6569993,45.5226494
+Biwa,3664761404,restaurant,-122.6568445,45.5213671
+,3665499784,bicycle_parking,-122.6597266,45.5287465
+,3665499785,bicycle_parking,-122.6597514,45.5287472
+,3665499787,bicycle_parking,-122.6597524,45.528791
+,3665499788,bicycle_parking,-122.6597514,45.528896
+,3665499789,bicycle_parking,-122.659815,45.5291179
+,3665499792,bicycle_parking,-122.6591174,45.5295451
+,3665499797,bicycle_parking,-122.6594093,45.5296169
+,3672891948,bicycle_parking,-122.6587084,45.5299178
+,3672891949,drinking_water,-122.6567819,45.5299646
+,3672891950,bicycle_parking,-122.6590057,45.5299794
+,3672891951,waste_basket,-122.6563567,45.5301181
+,3672891952,drinking_water,-122.6563764,45.5301181
+,3672891953,drinking_water,-122.6588285,45.5301311
+,3678295138,waste_basket,-122.6752144,45.5232037
+,3678295143,recycling,-122.6754812,45.5232515
+,3678295144,waste_basket,-122.6754992,45.523252
+,3678295145,waste_basket,-122.6753599,45.5232538
+,3678295146,recycling,-122.6753599,45.5232667
+,3678295147,bicycle_parking,-122.6754956,45.5232723
+,3678295152,bicycle_parking,-122.6745043,45.523388
+,3678295161,bicycle_parking,-122.6763825,45.5236006
+,3678295164,bicycle_parking,-122.6745116,45.5236314
+,3678295167,recycling,-122.6764075,45.5236511
+,3678295168,waste_basket,-122.676381,45.5236532
+,3678295172,recycling,-122.6753843,45.5236809
+,3678295173,waste_basket,-122.6745156,45.5236915
+,3678295174,waste_basket,-122.6753875,45.5236955
+,3678295176,recycling,-122.6754853,45.5237035
+,3678295179,bicycle_parking,-122.6745159,45.5237138
+,3678295182,bicycle_parking,-122.6766134,45.5237377
+,3678295183,bicycle_parking,-122.6757979,45.523743
+,3678295184,bicycle_parking,-122.67563,45.5237502
+,3678295185,bicycle_parking,-122.6755711,45.5237575
+,3678295186,bicycle_parking,-122.6758492,45.5238443
+,3678295187,recycling,-122.6755914,45.5238474
+,3678295189,recycling,-122.6753925,45.5239167
+,3678295191,bicycle_parking,-122.6753872,45.5240174
+,3678295194,bench,-122.6753883,45.5240852
+,3678295195,bicycle_parking,-122.6753891,45.5241406
+,3678295196,bicycle_parking,-122.6753897,45.5241756
+,3678295199,bicycle_parking,-122.6753906,45.5242333
+,3678295201,bench,-122.6753916,45.5242968
+,3678295202,recycling,-122.6755311,45.5243641
+,3678295203,waste_basket,-122.6755314,45.524376
+,3678295204,bicycle_parking,-122.6753931,45.5243951
+,3678295205,waste_basket,-122.6753933,45.5244069
+,3678295206,drinking_water,-122.6755322,45.524409
+,3678295207,recycling,-122.6753934,45.5244172
+,3678295210,bicycle_parking,-122.6759224,45.5244539
+,3678295211,bicycle_parking,-122.6756194,45.5244663
+,3679295851,post_box,-122.6810355,45.5233341
+,3679295857,bicycle_parking,-122.6810573,45.5235127
+,3679295860,bicycle_parking,-122.6802003,45.5235846
+,3679295861,bicycle_parking,-122.680889,45.523642
+,3679295862,bicycle_parking,-122.6809816,45.523642
+,3679295864,bicycle_parking,-122.6799826,45.5237729
+,3681395007,waste_basket,-122.682055,45.5231007
+,3681395008,bicycle_parking,-122.68207,45.5235257
+,3681395010,bicycle_parking,-122.6815198,45.5236307
+,3682785822,recycling,-122.6823774,45.5230522
+,3682785823,waste_basket,-122.6823672,45.5230524
+,3682785824,bicycle_parking,-122.6825564,45.5230602
+,3682791227,bicycle_parking,-122.6824293,45.5230685
+,3682791228,bicycle_parking,-122.6824589,45.5230696
+,3682791240,bench,-122.6830975,45.5235603
+,3682791243,bicycle_parking,-122.682461,45.5236199
+,3682791244,bench,-122.682305,45.5236238
+,3682791245,recycling,-122.6830334,45.5236255
+,3683239566,bicycle_parking,-122.6835363,45.5230335
+,3683239567,waste_basket,-122.6834394,45.5230343
+,3683239568,recycling,-122.6834522,45.5230352
+,3683239572,waste_basket,-122.6832105,45.5230667
+,3683239573,recycling,-122.6832233,45.5230676
+,3683239577,bicycle_parking,-122.6832629,45.5231279
+,3683239580,bench,-122.684091,45.5233039
+,3683239581,bicycle_parking,-122.6832215,45.5235219
+,3683239582,bench,-122.6832222,45.5235336
+,3683239583,bicycle_parking,-122.683901,45.5235942
+,3683239584,bench,-122.6840272,45.5235958
+,3683239585,bicycle_parking,-122.6837957,45.523598
+,3683239586,waste_basket,-122.683388,45.5236239
+,3683239587,bench,-122.6833635,45.5236227
+,3683239588,recycling,-122.6834023,45.5236237
+,3683239589,bicycle_parking,-122.6833363,45.5236273
+,3683239590,bench,-122.6840321,45.5236929
+,3683254810,bicycle_parking,-122.6806779,45.5220206
+,3683254819,bench,-122.6809955,45.5221983
+,3684328748,recycling,-122.676643,45.5206817
+,3684328749,waste_basket,-122.6766356,45.5207006
+,3694689545,bicycle_parking,-122.6863525,45.5211936
+,3697333677,bicycle_parking,-122.6868498,45.5356179
+,3697333678,bicycle_parking,-122.6868785,45.5356179
+,3697333679,bicycle_parking,-122.6869073,45.535618
+,3697333680,bicycle_parking,-122.686936,45.5356181
+,3697333681,bicycle_parking,-122.6869648,45.5356182
+,3697333682,bicycle_parking,-122.6869935,45.5356183
+,3697333683,bicycle_parking,-122.6870223,45.5356183
+,3697333684,bicycle_parking,-122.687051,45.5356184
+,3697333685,bicycle_parking,-122.6872191,45.5356189
+,3697333686,bicycle_parking,-122.687078,45.5356238
+,3697333688,bicycle_parking,-122.6868105,45.5356303
+,3697333694,bicycle_parking,-122.6868775,45.5357567
+,3697333703,bicycle_parking,-122.6869155,45.5358072
+,3697673627,bicycle_parking,-122.6848955,45.5265357
+,3697673630,waste_basket,-122.6853924,45.5265895
+,3697673631,bicycle_parking,-122.6843541,45.5266285
+Tower Plastics,3697905247,doctors,-122.683705,45.526627
+,3697905248,waste_basket,-122.6840638,45.5265448
+,3697905251,bicycle_parking,-122.6835636,45.5265617
+,3697905252,bicycle_parking,-122.6837344,45.5265629
+,3697905261,bicycle_parking,-122.6833808,45.5268795
+,3697905269,bicycle_parking,-122.6833739,45.5269798
+,3697905274,bicycle_parking,-122.6833755,45.5271186
+,3699480898,bicycle_parking,-122.6801494,45.5219719
+,3699480900,bicycle_parking,-122.6809125,45.5220362
+,3699480901,bicycle_parking,-122.6813001,45.5220469
+,3699480903,bicycle_parking,-122.6813297,45.5221516
+,3699480904,bicycle_parking,-122.6801556,45.5221521
+,3699480905,bicycle_parking,-122.6811735,45.5222403
+,3699480908,bicycle_parking,-122.680161,45.522312
+,3699480912,bicycle_parking,-122.6824158,45.522442
+,3699480914,bicycle_parking,-122.6825741,45.5224873
+,3699480916,bicycle_parking,-122.6826615,45.5225092
+,3699480920,bicycle_parking,-122.682199,45.5225464
+,3699480924,bicycle_parking,-122.6829164,45.5225734
+,3699482936,bicycle_parking,-122.6809543,45.5227
+,3699482937,bicycle_parking,-122.6805823,45.5227016
+,3699482946,bicycle_parking,-122.6830646,45.5227302
+,3699482947,bicycle_parking,-122.6820501,45.5227515
+,3699482952,bicycle_parking,-122.6809173,45.5228038
+,3699482953,bicycle_parking,-122.6820532,45.5228214
+,3699482957,bicycle_parking,-122.6816362,45.5228769
+,3699482958,bicycle_parking,-122.6817365,45.5229003
+Thai Champa,3703591472,fast_food,-122.6561081,45.5226127
+Mirakutei,3703627827,restaurant,-122.6600122,45.5228027
+Sonbeam Day Care,3708621735,childcare,-122.6591332,45.532686
+,3710122305,bicycle_parking,-122.6798075,45.5225105
+,3710122311,bicycle_parking,-122.6791861,45.5234641
+,3710122317,bicycle_parking,-122.6791917,45.5235663
+,3710122320,bicycle_parking,-122.6794583,45.5236752
+,3710122321,bicycle_parking,-122.6793715,45.5236763
+,3710122322,bicycle_parking,-122.6792877,45.5236773
+,3711263742,bicycle_parking,-122.6848308,45.5212541
+,3711263756,bicycle_parking,-122.6846195,45.5216455
+,3711263758,bicycle_parking,-122.6845887,45.5217116
+Garden Bar,3719066674,restaurant,-122.6573736,45.5306095
+Rue,3721614784,restaurant,-122.6554762,45.5223205
+,3731335548,bicycle_parking,-122.6837493,45.5215247
+,3731335550,bicycle_parking,-122.6836777,45.5216492
+,3731335551,bicycle_parking,-122.6848088,45.5217076
+,3731335554,bicycle_parking,-122.6847837,45.5217538
+,3731335555,atm,-122.6833085,45.5217621
+,3731335557,bicycle_parking,-122.6845605,45.5217696
+,3731335562,bicycle_parking,-122.6837919,45.5219291
+,3731335566,bicycle_parking,-122.6846546,45.522006
+,3731335568,bicycle_parking,-122.6846266,45.5220701
+,3731335569,bicycle_parking,-122.6842758,45.522158
+,3731377752,waste_basket,-122.6822537,45.5216993
+,3731377753,bicycle_parking,-122.6824594,45.5217531
+,3731377754,bicycle_parking,-122.6826947,45.5217555
+,3731377755,bicycle_parking,-122.6824085,45.5218359
+,3731377756,bicycle_parking,-122.6830009,45.5218366
+,3731377758,bicycle_parking,-122.6823184,45.5220046
+,3731377761,bicycle_parking,-122.68202,45.5221332
+,3731377768,bicycle_parking,-122.6833327,45.5223027
+,3731377773,bicycle_parking,-122.6830446,45.5224015
+PMC,3732066584,parking_entrance,-122.6812871,45.5204752
+,3732066624,bicycle_parking,-122.6805666,45.5202968
+,3732067226,bicycle_parking,-122.6810414,45.5204337
+,3732067227,bicycle_parking,-122.6817385,45.5205
+,3732122216,bicycle_parking,-122.6804703,45.5203926
+,3732122217,bicycle_parking,-122.6802244,45.5204037
+,3732122221,waste_basket,-122.6806781,45.5205046
+,3732124925,bicycle_parking,-122.6800801,45.5206491
+,3732124928,bicycle_parking,-122.6805761,45.5206922
+,3732124934,bicycle_parking,-122.6805087,45.5208136
+,3732124936,bicycle_parking,-122.6800218,45.520919
+,3732124939,bicycle_parking,-122.6803222,45.5210081
+,3732124940,post_box,-122.6803375,45.5210111
+White Owl West,3732415310,bar,-122.6809275,45.521766
+,3732415312,waste_basket,-122.6803078,45.5211116
+,3732415315,bicycle_parking,-122.6806078,45.5211971
+,3732415317,bicycle_parking,-122.6806789,45.5212156
+,3732415319,bicycle_parking,-122.680416,45.5212232
+,3732415323,bicycle_parking,-122.6809167,45.5212799
+,3732415325,bicycle_parking,-122.6803817,45.5212959
+,3732415331,bicycle_parking,-122.6803482,45.5213552
+,3732415337,waste_basket,-122.6812204,45.5214416
+,3732415339,bicycle_parking,-122.6802827,45.5214721
+,3732415346,bicycle_parking,-122.6802109,45.521599
+,3732415349,bicycle_parking,-122.6801862,45.5216516
+,3732415350,bicycle_parking,-122.6811045,45.5216525
+,3732415353,waste_basket,-122.6811157,45.5216846
+,3732415357,bicycle_parking,-122.6802948,45.5217495
+,3732415361,bicycle_parking,-122.6804625,45.521796
+,3732415363,bicycle_parking,-122.6806849,45.5218545
+,3732415364,bicycle_parking,-122.6809841,45.5218882
+,3732415365,bicycle_parking,-122.6808779,45.5219091
+,3734911736,waste_basket,-122.6787718,45.5213453
+,3734911738,waste_basket,-122.6786877,45.5214351
+,3734911739,waste_basket,-122.6795286,45.5214605
+,3734911746,bicycle_parking,-122.6785314,45.5216347
+,3734911748,bicycle_parking,-122.6793387,45.5217048
+,3734911752,atm,-122.6780985,45.5218106
+,3734911762,waste_basket,-122.6782659,45.5221322
+,3734911763,bicycle_parking,-122.6784433,45.5221459
+,3734911765,bicycle_parking,-122.6800087,45.5221739
+,3734911769,bicycle_parking,-122.67878,45.5222323
+,3734911770,bicycle_parking,-122.6800064,45.5222624
+,3734911772,bicycle_parking,-122.6781847,45.5222691
+,3734911774,bicycle_parking,-122.678989,45.5222902
+,3734911778,bicycle_parking,-122.6780942,45.5224386
+,3734911790,bicycle_parking,-122.6783777,45.5226843
+,3734911796,bicycle_parking,-122.6783713,45.5227915
+,3734911803,bicycle_parking,-122.677685,45.522843
+,3734911804,waste_basket,-122.6776669,45.5228616
+,3734911805,bicycle_parking,-122.677877,45.5229248
+,3736820733,waste_basket,-122.6722483,45.5239165
+,3736820736,waste_basket,-122.6711834,45.5239209
+,3736820738,waste_basket,-122.6716462,45.5239275
+,3736820741,bicycle_parking,-122.6714889,45.5241349
+,3736820742,bicycle_parking,-122.6714889,45.5241896
+,3736820750,atm,-122.6723089,45.5244814
+,3736869627,bicycle_parking,-122.6804751,45.5309443
+Pearl Health Center,3736917433,doctors,-122.6804914,45.5285839
+Red E Café,3736917434,cafe,-122.6805908,45.5283521
+,3736917439,waste_basket,-122.6822406,45.5280071
+,3736917453,bicycle_parking,-122.6807821,45.5280431
+,3736917454,bicycle_parking,-122.6804629,45.5280481
+,3736917511,bicycle_parking,-122.6812354,45.5282698
+,3736917512,bicycle_parking,-122.6803737,45.5283167
+,3736917513,bench,-122.681147,45.5283197
+,3736917516,bench,-122.681147,45.5283503
+,3736917517,bicycle_parking,-122.6803722,45.5284455
+,3736917518,bicycle_parking,-122.6803737,45.5285134
+,3736917519,bench,-122.6812746,45.528559
+,3736917520,bicycle_parking,-122.6803753,45.5285796
+,3736917521,bicycle_parking,-122.6811972,45.5286385
+,3736917522,bicycle_parking,-122.6804666,45.528643
+,3736917523,bicycle_parking,-122.6807908,45.5286444
+,3738142615,bicycle_parking,-122.6820322,45.5251649
+,3738142616,bicycle_parking,-122.6819012,45.5251675
+,3738142617,bicycle_parking,-122.6818192,45.525168
+,3738142618,bicycle_parking,-122.6816618,45.5251696
+,3738142619,bicycle_parking,-122.6813998,45.5251744
+,3738142624,waste_basket,-122.6812786,45.5252351
+,3738142630,bicycle_parking,-122.6812847,45.5253069
+,3738142635,bicycle_parking,-122.6821437,45.5253363
+,3738142638,bicycle_parking,-122.6821459,45.5255394
+,3738142639,waste_basket,-122.6811445,45.5257153
+Allergy Clinic,3753315146,doctors,-122.6818887,45.5211465
+Optimal Results Physical Therapy,3753315181,doctors,-122.681827,45.5212741
+Vitalize,3753315206,doctors,-122.6818569,45.5212123
+,3753315208,waste_basket,-122.6808597,45.5204955
+,3753315212,waste_basket,-122.6807528,45.5205952
+,3753315215,waste_basket,-122.6815486,45.5206871
+,3753315220,bicycle_parking,-122.6816096,45.5207349
+,3753315224,waste_basket,-122.6818956,45.5207954
+,3753315526,waste_basket,-122.6806317,45.5208302
+,3753315530,waste_basket,-122.6815322,45.5208952
+,3753315540,waste_basket,-122.6805125,45.5210148
+,3753315545,bicycle_parking,-122.6816704,45.5210527
+,3753315547,bicycle_parking,-122.68164,45.5211102
+,3753315548,waste_basket,-122.6807944,45.5211279
+,3753315554,bicycle_parking,-122.6815874,45.5211994
+,3753315557,waste_basket,-122.6811285,45.5212189
+,3753315560,drinking_water,-122.6815496,45.5212816
+,3753315564,bicycle_parking,-122.6816668,45.5213613
+,3753315566,bicycle_parking,-122.6817363,45.5213838
+,3753315570,waste_basket,-122.6815306,45.5214387
+,3753315571,bicycle_parking,-122.6819808,45.5214472
+,3753315572,parking_entrance,-122.6821625,45.5214623
+,3753315574,bicycle_parking,-122.6816075,45.5214679
+,3753315575,bicycle_parking,-122.6816554,45.5214803
+,3753315576,bicycle_parking,-122.6814373,45.5214873
+,3753315587,bicycle_parking,-122.6813478,45.5216499
+,3753315592,bicycle_parking,-122.6813133,45.5217244
+,3753315604,parking_entrance,-122.6820661,45.5219598
+PMC,3775763197,parking_entrance,-122.6788833,45.5212168
+Union Bank,3775763200,bank,-122.6790628,45.5209482
+,3775763208,bicycle_parking,-122.6801137,45.5202884
+,3775763210,bicycle_parking,-122.6791744,45.5204043
+,3775763211,bicycle_parking,-122.6800774,45.520458
+,3775763213,waste_basket,-122.6777958,45.5204816
+,3775763214,recycling,-122.6777831,45.5204984
+,3775763215,bicycle_parking,-122.6780774,45.5205138
+,3775763218,bicycle_parking,-122.6788733,45.5205522
+,3775763219,waste_basket,-122.6779189,45.5205536
+,3775763220,bicycle_parking,-122.6800268,45.5205561
+,3775763222,recycling,-122.6779061,45.5205704
+,3775763223,bicycle_parking,-122.6782804,45.5205738
+,3775763227,drinking_water,-122.6790656,45.5206242
+,3775763233,bicycle_parking,-122.6778572,45.52068
+,3775763236,waste_basket,-122.6787434,45.52069
+,3775763239,bicycle_parking,-122.679243,45.5207175
+,3775763241,bicycle_parking,-122.6794148,45.5207651
+,3775763243,bicycle_parking,-122.6787422,45.5207876
+,3775763245,bicycle_parking,-122.6791365,45.5208111
+,3775763247,waste_basket,-122.6789745,45.5208159
+,3775763250,bicycle_parking,-122.6797011,45.5208362
+,3775763251,bicycle_parking,-122.6792968,45.5208513
+,3775763252,bicycle_parking,-122.6789357,45.5208631
+,3775764759,bicycle_parking,-122.679506,45.5209033
+,3775764763,bicycle_parking,-122.6788934,45.5209244
+,3775764764,bicycle_parking,-122.6795921,45.5209246
+,3775764766,bicycle_parking,-122.6796562,45.5209412
+,3775764768,waste_basket,-122.6797372,45.5209636
+,3775764770,recycling,-122.6776802,45.5209835
+,3775764771,waste_basket,-122.6776727,45.5209955
+,3775764772,atm,-122.6795117,45.5210195
+,3775764782,bicycle_parking,-122.6780736,45.5211678
+,3775764783,bicycle_parking,-122.6781348,45.5211835
+,3775764794,fountain,-122.6794454,45.5213181
+,3775764814,waste_basket,-122.6796363,45.5215825
+Willamette University,3780436030,university,-122.6835712,45.5295666
+,3780436044,waste_basket,-122.6832801,45.5287518
+,3780436045,bicycle_parking,-122.6834406,45.5287589
+,3780436257,bicycle_parking,-122.6822728,45.5289144
+,3780436262,bicycle_parking,-122.6824868,45.5290754
+,3780436265,bicycle_parking,-122.6822815,45.5291652
+,3780436266,waste_basket,-122.6821779,45.5293045
+,3780436267,waste_basket,-122.6833001,45.5293077
+,3780436280,bicycle_parking,-122.6825337,45.5294487
+,3780436286,bicycle_parking,-122.6822964,45.5298958
+,3780436287,bicycle_parking,-122.6824314,45.5298835
+,3780436291,bicycle_parking,-122.6832744,45.5299112
+,3780436297,bicycle_parking,-122.6831443,45.53001
+,3780436298,waste_basket,-122.6829396,45.5300125
+,3780436299,bench,-122.682957,45.5300129
+,3780436301,bicycle_parking,-122.6826923,45.5300187
+,3780436303,bench,-122.6829507,45.5301418
+,3780436304,waste_basket,-122.6829341,45.5301426
+,3780436305,bicycle_parking,-122.6827075,45.5301433
+,3780436306,bicycle_parking,-122.6833345,45.5301883
+Nossa Familia Coffee,3787098629,cafe,-122.6848319,45.5298889
+Pacific Cataract and Laser Institute,3787098633,doctors,-122.6851614,45.5304786
+Rafia Dental,3787098634,dentist,-122.6851712,45.5297254
+Starbucks,3787098637,cafe,-122.6846486,45.5303945
+,3787098644,bench,-122.6829442,45.5293331
+,3787098647,vending_machine,-122.6826292,45.5293613
+,3787098648,bench,-122.6829442,45.5293699
+,3787098651,bicycle_parking,-122.6845868,45.5293952
+,3787099157,bicycle_parking,-122.6839078,45.5294053
+,3787099158,bicycle_parking,-122.6841571,45.5294077
+,3787099165,bench,-122.6826221,45.529447
+,3787099171,bench,-122.6826213,45.5294944
+,3787099186,bicycle_parking,-122.6852664,45.5296721
+,3787099190,bicycle_parking,-122.6834673,45.5297061
+,3787099202,bicycle_parking,-122.6849082,45.5299727
+,3787099203,bench,-122.6846683,45.5299738
+,3787099204,waste_basket,-122.6846975,45.529974
+,3787099205,waste_basket,-122.684741,45.5299742
+,3787099206,bench,-122.6847673,45.5299743
+,3787099213,bench,-122.6839847,45.5300083
+,3787099214,waste_basket,-122.6840104,45.5300091
+,3787099215,bicycle_parking,-122.6840839,45.5300099
+,3787099219,waste_basket,-122.6853131,45.530094
+,3787099221,bicycle_parking,-122.6848024,45.5301019
+,3787099222,waste_basket,-122.6848856,45.5301039
+,3787099223,bench,-122.6849118,45.5301039
+,3787099230,waste_basket,-122.6838291,45.5301212
+,3787099233,bench,-122.6838711,45.5301245
+,3787099236,bicycle_parking,-122.6837182,45.5301278
+,3787099242,bicycle_parking,-122.6852565,45.5301402
+,3787099244,bicycle_parking,-122.6838491,45.5301466
+,3787099256,waste_basket,-122.685308,45.5302415
+,3787099288,parking_entrance,-122.685337,45.530559
+,3787099299,bicycle_parking,-122.6835613,45.5305995
+,3787099310,vending_machine,-122.683492,45.5306684
+,3787099317,bicycle_parking,-122.6841803,45.5306886
+,3787099318,vending_machine,-122.6851051,45.5306887
+,3787099320,bench,-122.6836905,45.5306899
+,3787099327,bench,-122.6835971,45.5307009
+,3787099335,bicycle_parking,-122.6832874,45.5307402
+,3798944098,bicycle_parking,-122.6821175,45.5300174
+,3798944099,bicycle_parking,-122.6815888,45.5300238
+,3798944100,bicycle_parking,-122.6784399,45.5300403
+,3798944104,bench,-122.678497,45.5300697
+,3798944105,bench,-122.6786263,45.5300834
+,3798944107,bench,-122.6790351,45.5301395
+,3798944108,bench,-122.6791076,45.5301519
+,3798944109,waste_basket,-122.681526,45.5301568
+,3798944114,bicycle_parking,-122.6810814,45.5301759
+,3798944115,bench,-122.6808711,45.5301764
+,3798944116,waste_basket,-122.6808545,45.5301772
+,3798944121,bicycle_parking,-122.6811824,45.5302055
+,3798944122,bicycle_parking,-122.6812258,45.5302065
+,3798944124,bicycle_parking,-122.6825316,45.530211
+,3798944125,bicycle_parking,-122.6805743,45.5302158
+,3798944126,bicycle_parking,-122.6805315,45.530218
+,3798944127,waste_basket,-122.6801955,45.5302183
+,3798944129,bicycle_parking,-122.681262,45.5302312
+,3798944130,bench,-122.6783996,45.5302331
+,3798944132,waste_basket,-122.6784078,45.5302406
+,3798944133,bicycle_parking,-122.6804981,45.5302436
+,3798944135,bicycle_parking,-122.6801036,45.5302509
+,3798944136,bicycle_parking,-122.681264,45.5302618
+,3798944139,bicycle_parking,-122.6804941,45.5302733
+,3798944152,bench,-122.6783025,45.5302958
+,3798944156,bench,-122.6783208,45.5303042
+,3798944169,bicycle_parking,-122.683348,45.5303956
+,3798944174,bicycle_parking,-122.6824896,45.5304577
+,3798944179,bicycle_parking,-122.6813201,45.5304934
+,3798944184,bicycle_parking,-122.6802789,45.5305314
+,3798944186,bicycle_parking,-122.68028,45.5305862
+,3798944202,bicycle_parking,-122.6802814,45.5306471
+,3798944206,bicycle_parking,-122.6824956,45.5306621
+,3798944207,bicycle_parking,-122.6812785,45.5306807
+,3798944215,waste_basket,-122.6813422,45.5307175
+,3798944222,bicycle_parking,-122.6811936,45.5307443
+,3798944223,waste_basket,-122.6803023,45.530747
+,3798944224,bicycle_parking,-122.6828427,45.5307471
+,3798944226,bicycle_parking,-122.6826762,45.530755
+,3798944227,bicycle_parking,-122.6816593,45.5307638
+,3798944228,bicycle_parking,-122.6812018,45.5307722
+,3798944229,bicycle_parking,-122.681244,45.5307735
+,3798944232,bicycle_parking,-122.6805495,45.5307901
+,3798944234,bicycle_parking,-122.6794832,45.530802
+,3798944235,bicycle_parking,-122.6794006,45.5308042
+,3798944236,bench,-122.6790739,45.5308328
+,3798944237,bench,-122.6789673,45.5308337
+,3798944238,bench,-122.6790568,45.5308862
+,3798944239,bench,-122.6789881,45.5308867
+Pearl District Counseling,3807892779,doctors,-122.6830408,45.527085
+,3807892780,bicycle_parking,-122.6840683,45.5257287
+,3807892781,waste_basket,-122.6841242,45.5257264
+,3807892782,bicycle_parking,-122.6849313,45.5258251
+,3807892795,bicycle_parking,-122.6848616,45.5264272
+,3807892796,bicycle_parking,-122.6847852,45.5264278
+,3807892797,waste_basket,-122.6823834,45.5264736
+,3807892798,bicycle_parking,-122.6827176,45.5265831
+,3807892799,bicycle_parking,-122.6825369,45.5265836
+,3807892800,bicycle_parking,-122.6824583,45.5265841
+,3807892803,waste_basket,-122.68218,45.5266236
+,3807892804,bicycle_parking,-122.6821911,45.5266431
+,3807892816,waste_basket,-122.6832188,45.5271186
+,3807892818,waste_basket,-122.6822069,45.5271457
+,3807892866,vending_machine,-122.6829276,45.5278968
+,3807892867,waste_basket,-122.6832477,45.5278976
+,3807892873,bench,-122.6819201,45.5279131
+,3807892875,vending_machine,-122.6818856,45.5279142
+,3807892886,bench,-122.6821949,45.5279551
+,3807892896,bench,-122.6819142,45.5280037
+,3807892902,bicycle_parking,-122.681396,45.5281256
+North Lake,3845257212,doctors,-122.6860558,45.5347091
+,3845257215,bicycle_parking,-122.6864718,45.5343596
+,3845257216,bicycle_parking,-122.6863989,45.5343607
+,3845257218,bicycle_parking,-122.6858039,45.5343701
+,3845267105,waste_disposal,-122.6864553,45.5347906
+,3845267133,bicycle_parking,-122.6862632,45.5349576
+PMC,3846468167,parking_entrance,-122.6852585,45.5203724
+,3846468188,bicycle_parking,-122.6843665,45.5205711
+,3846468189,drinking_water,-122.6844233,45.5205844
+Jersey Mike's Subs,3850594758,fast_food,-122.6589216,45.5349409
+,3850594781,bicycle_parking,-122.6576994,45.5338163
+,3850594833,bicycle_parking,-122.6576862,45.5341009
+,3850594867,bicycle_parking,-122.6587017,45.5345389
+,3850594872,bicycle_parking,-122.6570286,45.5345655
+,3850594878,bicycle_parking,-122.6577884,45.5345828
+,3850594957,bicycle_parking,-122.6586996,45.5348996
+,3850594959,bicycle_parking,-122.6572971,45.5349849
+,3850594965,bicycle_parking,-122.6571243,45.5351489
+,3850594966,waste_basket,-122.6564504,45.5351506
+,3850594982,waste_basket,-122.6564668,45.535195
+,3850594988,bicycle_parking,-122.6556493,45.5352113
+,3850594995,bicycle_parking,-122.6585328,45.5352265
+,3850595099,bicycle_parking,-122.6586847,45.5357001
+,3850595108,bicycle_parking,-122.6571414,45.5358915
+,3850595124,post_box,-122.6575137,45.5359836
+,3850595125,post_box,-122.6575137,45.5359902
+,3850595127,post_box,-122.6575137,45.5359989
+A Taste of Greek,3860421626,fast_food,-122.6734256,45.5203976
+Asian Station,3860421628,fast_food,-122.6733269,45.5206078
+El Pilón,3860421633,fast_food,-122.6733834,45.5204885
+,3860425655,waste_basket,-122.672317,45.5202851
+,3860425859,bicycle_parking,-122.6731809,45.5203456
+,3860425862,waste_basket,-122.6742973,45.5203602
+,3860425866,bicycle_parking,-122.6742714,45.52042
+,3860425873,bicycle_parking,-122.6731149,45.5204706
+,3860425874,bicycle_parking,-122.6720462,45.520473
+,3860425878,waste_basket,-122.6723039,45.5204976
+,3860425879,post_box,-122.6723276,45.5205035
+,3860425880,bicycle_parking,-122.6723613,45.52051
+,3860425885,waste_basket,-122.6733391,45.5206568
+,3860425888,bicycle_parking,-122.673305,45.5207703
+,3861909893,waste_basket,-122.6772291,45.5218477
+,3861909894,recycling,-122.6772189,45.5218637
+,3861909895,bicycle_parking,-122.6774678,45.5218822
+,3861909896,drinking_water,-122.6772074,45.5218898
+,3861909898,bicycle_parking,-122.6778764,45.5219852
+,3861909901,bicycle_parking,-122.6780271,45.522105
+,3861909905,bicycle_parking,-122.6770622,45.5221591
+,3861909906,bicycle_parking,-122.677993,45.5221834
+,3861909907,bicycle_parking,-122.6770398,45.5222016
+,3861909913,waste_basket,-122.6768017,45.5222795
+,3861909914,recycling,-122.6769746,45.5222804
+,3861909915,recycling,-122.6767947,45.5222938
+,3861909916,waste_basket,-122.6769633,45.522298
+,3861909919,bicycle_parking,-122.6779227,45.5223088
+,3861909927,bicycle_parking,-122.6778801,45.5224305
+,3861909929,recycling,-122.6766541,45.5224618
+,3861909931,waste_basket,-122.6766483,45.5224788
+,3861909933,waste_basket,-122.6768188,45.5225161
+,3861909934,recycling,-122.6768086,45.5225305
+,3879453135,parking_entrance,-122.6642685,45.5274353
+,3926538655,bicycle_parking,-122.6730051,45.5214519
+,3926538660,bicycle_parking,-122.6727557,45.5215546
+,3926538663,bicycle_parking,-122.673426,45.5215647
+,3926538666,bicycle_parking,-122.6735486,45.5215999
+,3926538674,waste_basket,-122.672574,45.521979
+,3942888890,bicycle_parking,-122.6708478,45.5209348
+,3942888892,waste_basket,-122.6716352,45.5210887
+,3942888895,bicycle_parking,-122.6723444,45.5211532
+,3942888897,waste_basket,-122.6718512,45.5211905
+,3942888906,waste_basket,-122.6711508,45.5215992
+,3942888908,waste_basket,-122.6713376,45.5216488
+,3942888911,bicycle_parking,-122.6716111,45.5217222
+,3942888912,bicycle_parking,-122.6724257,45.5217664
+,3942888913,bicycle_parking,-122.6724043,45.5218057
+,3942888915,bicycle_parking,-122.6723683,45.5218548
+,3947003484,bicycle_parking,-122.6755058,45.5202847
+,3947003486,bicycle_parking,-122.6754906,45.5203209
+,3947003488,waste_basket,-122.6745071,45.5204033
+,3947003489,drinking_water,-122.6753357,45.5205994
+,3947003494,bicycle_parking,-122.6752263,45.5207931
+,3947003503,bicycle_parking,-122.6746231,45.5210057
+,3947003504,bicycle_parking,-122.6751133,45.5210135
+,3947003507,bicycle_parking,-122.675092,45.521046
+,3947003508,waste_basket,-122.6750776,45.5210656
+,3954443058,waste_basket,-122.6694622,45.5220409
+,3954443059,bicycle_parking,-122.6694962,45.52213
+,3954443060,bench,-122.6693291,45.5221813
+,3954443061,bench,-122.6693153,45.5222263
+,3954443062,waste_basket,-122.6700709,45.5222271
+,3954443063,bench,-122.6693111,45.5222871
+,3954443064,bench,-122.6693153,45.5223427
+,3954443065,bench,-122.6693277,45.5223818
+,3954550589,bench,-122.6665525,45.5202914
+,3954550609,bench,-122.6662809,45.5216017
+,3954550612,bench,-122.6662663,45.5216497
+,3954550630,bench,-122.6659611,45.5226354
+,3954550631,bench,-122.6659587,45.5226588
+,3954550635,bench,-122.6662339,45.5234167
+,3954550636,bench,-122.6662315,45.5234438
+,3954550637,bench,-122.6661999,45.5236627
+,3954550638,bench,-122.6661934,45.5236902
+,3954550639,bench,-122.6661565,45.5239075
+,3954550640,bench,-122.6661494,45.5239342
+,3954550641,bench,-122.6661043,45.5241523
+,3954550642,bench,-122.6660979,45.5241798
+,3954550643,bench,-122.6660428,45.5243946
+,3954550644,bench,-122.6660357,45.5244225
+,3954550645,bench,-122.6659771,45.5246369
+,3954550646,bench,-122.6659683,45.524664
+,3954550647,bench,-122.6659037,45.5248777
+,3954550648,bench,-122.6658954,45.5249053
+Sizzle Pie,3983330600,restaurant,-122.6642226,45.5359082
+Pine State Biscuits,3983330601,restaurant,-122.6641983,45.5359458
+PMC,4002991906,parking_entrance,-122.6834356,45.5221861
+Ringlers Pub,4002991908,pub,-122.6850539,45.5227949
+Zeus Café,4002991911,restaurant,-122.6832854,45.5227283
+,4002991917,bicycle_parking,-122.6847633,45.5217967
+,4002991921,waste_basket,-122.6836293,45.521885
+,4002991927,bicycle_parking,-122.6836102,45.5219837
+,4002991934,bicycle_parking,-122.683957,45.5220974
+,4002991940,bicycle_parking,-122.6847836,45.5221939
+,4002991945,recycling,-122.6843291,45.5222397
+,4002991946,waste_basket,-122.6843255,45.5222459
+,4002991957,bicycle_parking,-122.6850327,45.5223764
+,4002991966,bicycle_parking,-122.6832653,45.5224186
+,4002991971,bicycle_parking,-122.6841899,45.5224458
+,4002993889,bicycle_parking,-122.6843663,45.5225457
+,4002993898,bicycle_parking,-122.6841165,45.5225866
+,4002993905,bicycle_parking,-122.6843139,45.5226427
+,4002993913,bicycle_parking,-122.6852157,45.5227049
+,4002993920,bicycle_parking,-122.683936,45.5227647
+,4002993921,bicycle_parking,-122.6836673,45.5227789
+,4002993924,recycling,-122.6840905,45.5227932
+,4002993927,waste_basket,-122.6840913,45.5227999
+,4002993928,bicycle_parking,-122.6851679,45.5228028
+,4002993931,bicycle_parking,-122.6838296,45.5228232
+,4002993933,bicycle_parking,-122.684346,45.5228544
+,4002993935,bicycle_parking,-122.6849438,45.5229786
+,4002993936,bicycle_parking,-122.6847194,45.5229844
+,4002993937,bicycle_parking,-122.6847851,45.5229844
+,4006266580,bicycle_parking,-122.6786458,45.5205549
+,4006266582,bicycle_parking,-122.6787188,45.520572
+,4011943933,bicycle_parking,-122.6857554,45.5286608
+,4011943934,bicycle_parking,-122.6860049,45.5286614
+,4011943935,waste_basket,-122.6855294,45.5286647
+,4011943945,bicycle_parking,-122.6856572,45.5286854
+,4011943947,bicycle_parking,-122.6854701,45.5287155
+,4011943950,bicycle_parking,-122.6854717,45.5287766
+,4011943968,waste_basket,-122.6862891,45.5292519
+,4011943971,waste_basket,-122.6855571,45.52927
+,4011943972,bicycle_parking,-122.6858486,45.5293737
+,4011943973,bicycle_parking,-122.685745,45.5293741
+,4011943974,bicycle_parking,-122.6856561,45.5293745
+,4011943977,bicycle_parking,-122.6854835,45.5294249
+,4011943978,bicycle_parking,-122.6854853,45.529468
+,4011944192,waste_basket,-122.6861692,45.5299677
+,4013416517,bicycle_parking,-122.6849114,45.5308169
+,4013416518,bicycle_parking,-122.6846151,45.5308186
+,4013416521,bicycle_parking,-122.6842522,45.5308293
+,4013416522,bicycle_parking,-122.6849732,45.5308306
+,4013416523,bicycle_parking,-122.6841869,45.530831
+,4013416524,bicycle_parking,-122.6841338,45.5308324
+,4013416542,bicycle_parking,-122.683523,45.5310845
+,4013416553,bicycle_parking,-122.683523,45.5311318
+,4013416584,post_box,-122.6854036,45.531364
+,4013421696,waste_basket,-122.683508,45.5314103
+,4013421697,bicycle_parking,-122.6846926,45.5314211
+,4013421698,bicycle_parking,-122.6846213,45.531422
+,4013421699,bicycle_parking,-122.6841161,45.5314324
+,4017445525,bicycle_parking,-122.6820667,45.5244443
+,4017445528,bicycle_parking,-122.6821317,45.5245103
+,4017445529,waste_basket,-122.6821147,45.5245118
+,4017445531,waste_basket,-122.6821126,45.5245648
+,4017445532,recycling,-122.6821126,45.5245749
+,4017445535,bicycle_parking,-122.6821178,45.5246593
+,4017445536,bicycle_parking,-122.6821162,45.5246931
+,4017484532,bicycle_parking,-122.6813387,45.5267438
+,4017484540,bicycle_parking,-122.6818903,45.5271895
+Gallery 114,4017520605,arts_centre,-122.6825169,45.5264322
+,4017520617,bicycle_parking,-122.6823312,45.526046
+,4017520625,bicycle_parking,-122.6823301,45.5262722
+,4017520636,bicycle_parking,-122.6831938,45.5263805
+,4017520637,bicycle_parking,-122.6826123,45.5264063
+,4017520640,bicycle_parking,-122.6826252,45.5264333
+,4017520642,bicycle_parking,-122.6823313,45.5264363
+,4017520645,waste_basket,-122.6831434,45.5264584
+,4017520647,bicycle_parking,-122.6830194,45.5264596
+,4068962679,bicycle_parking,-122.6726047,45.5205765
+,4068962680,bicycle_parking,-122.6726664,45.5205939
+,4068962682,bicycle_parking,-122.6720428,45.5208076
+,4068962684,waste_basket,-122.6719872,45.5209007
+,4068963191,waste_basket,-122.6726973,45.5211981
+,4069489719,bicycle_parking,-122.672665,45.5221036
+,4069489721,bicycle_parking,-122.6728859,45.5221678
+,4069489723,bicycle_parking,-122.6730157,45.5222055
+,4069489725,bicycle_parking,-122.6732202,45.5222995
+,4069489727,bicycle_parking,-122.6723099,45.5223697
+,4069489728,bicycle_parking,-122.6731826,45.5223775
+,4069489731,bicycle_parking,-122.6723421,45.5224571
+,4069489748,atm,-122.6727864,45.5225838
+,4069489750,bicycle_parking,-122.6732021,45.5226018
+,4069489752,waste_basket,-122.6732011,45.5226166
+,4069489755,bicycle_parking,-122.6724061,45.5226683
+,4069489776,waste_basket,-122.6735233,45.5228698
+,4069489788,atm,-122.6731757,45.5229308
+,4069490689,drinking_water,-122.67353,45.5229375
+,4069490698,bicycle_parking,-122.6728313,45.5230141
+,4071030889,waste_basket,-122.6760091,45.5215535
+,4071030890,recycling,-122.6760048,45.5215627
+,4071030891,bicycle_parking,-122.6763667,45.5215912
+,4071030892,waste_basket,-122.6761687,45.5215929
+,4071030893,recycling,-122.6761657,45.5216041
+,4071030894,bicycle_parking,-122.6768884,45.521735
+,4071030898,waste_basket,-122.6770236,45.5218585
+,4071030899,recycling,-122.6770134,45.5218745
+,4071030901,bicycle_parking,-122.676816,45.5219577
+,4071030902,telephone,-122.6769085,45.522093
+,4071030907,waste_basket,-122.676392,45.5229063
+,4071030909,recycling,-122.676385,45.5229198
+,4071030911,recycling,-122.6755428,45.522962
+,4071030913,waste_basket,-122.6755438,45.5229749
+,4072740543,atm,-122.6624966,45.5340738
+,4105343449,post_box,-122.6626589,45.5208588
+,4105343453,bicycle_parking,-122.6615864,45.5211416
+,4105343454,bicycle_parking,-122.6615146,45.521143
+,4105343455,bicycle_parking,-122.6614201,45.5211435
+,4105343459,bicycle_parking,-122.6608498,45.5212656
+,4105343463,bicycle_parking,-122.6608551,45.5214047
+,4105343466,bicycle_parking,-122.6609815,45.5214592
+Aybla,4106297662,fast_food,-122.6760111,45.5213359
+Babylon Food,4106297663,fast_food,-122.6762012,45.5209812
+Boonkrong,4106297664,fast_food,-122.6758141,45.5212755
+Chez Dodo,4106297666,fast_food,-122.6759944,45.520777
+Don Pedro,4106297667,fast_food,-122.6761866,45.5210085
+Hawaiian Grill,4106297669,fast_food,-122.6762159,45.520954
+Khob Khun,4106297671,fast_food,-122.6761573,45.5210631
+Kingsland Kitchen,4106297672,fast_food,-122.6757449,45.5212576
+Korean Twist,4106297673,fast_food,-122.6760403,45.5212814
+La Jarochita,4106297674,fast_food,-122.6760549,45.5212541
+Mr. Taco,4106297676,fast_food,-122.6760696,45.5212268
+PDX Empanadas,4106297677,fast_food,-122.6757102,45.5212487
+Real Taste of India,4106297678,fast_food,-122.6762597,45.5208721
+Saigon Food To-Go,4106297679,fast_food,-122.6760257,45.5213086
+Schnitzelwich,4106297680,fast_food,-122.6761774,45.5208213
+Small Pharoah's,4106297681,fast_food,-122.6762744,45.5208448
+Spoons,4106297682,fast_food,-122.6760842,45.5211995
+Steaks Fifth Avenue,4106297683,fast_food,-122.6761281,45.5211177
+Thai Sky,4106297684,fast_food,-122.6760988,45.5211722
+Veli Thai,4106297685,fast_food,-122.6762305,45.5209267
+Vina,4106297686,fast_food,-122.6761427,45.5210904
+Wagsy's,4106297687,fast_food,-122.6757795,45.5212666
+,4106311089,bicycle_parking,-122.6757089,45.520512
+,4106311091,bicycle_parking,-122.6758027,45.5205393
+,4106311092,bicycle_parking,-122.6757074,45.5206464
+,4106311094,bicycle_parking,-122.675985,45.5207225
+,4106311095,waste_basket,-122.67604,45.5207347
+,4106311096,bicycle_parking,-122.6754956,45.5207404
+,4106311097,waste_basket,-122.6762546,45.5207911
+,4106311101,atm,-122.6762641,45.5208611
+,4106311102,waste_basket,-122.6763641,45.52087
+,4106311103,recycling,-122.6763598,45.5208792
+,4106311104,bicycle_parking,-122.6754018,45.5209048
+,4106311106,bench,-122.6762976,45.5209729
+Ali Baba,4106311110,fast_food,-122.676172,45.5210358
+,4106311111,waste_basket,-122.6762808,45.5210462
+,4106311113,bicycle_parking,-122.675324,45.5210551
+,4106311116,bicycle_parking,-122.6752757,45.5211303
+,4106311118,bench,-122.6762057,45.5211491
+,4106311123,bicycle_parking,-122.6754246,45.521213
+,4106311128,bicycle_parking,-122.675501,45.5212384
+,4106311129,bench,-122.6761628,45.5212426
+,4106311130,bench,-122.6761206,45.5213102
+,4106311131,recycling,-122.6761124,45.5213487
+,4106311132,drinking_water,-122.6762889,45.5213554
+,4106311133,waste_basket,-122.6761033,45.5213639
+,4106311135,recycling,-122.6762922,45.5213871
+,4106311136,waste_basket,-122.6762844,45.5214052
+Portland City Grill,4106707895,restaurant,-122.6759928,45.5226107
+Subway,4106707898,fast_food,-122.6760706,45.5220911
+,4106707901,waste_basket,-122.6757776,45.5213239
+,4106707902,bicycle_parking,-122.6755184,45.5213563
+,4106707907,bicycle_parking,-122.6758215,45.5214394
+,4106707908,post_box,-122.675963,45.5214808
+,4106707911,bench,-122.6761249,45.5216631
+,4106707912,bench,-122.6759439,45.521665
+,4106707915,bicycle_parking,-122.674752,45.521688
+,4106707918,bicycle_parking,-122.6747295,45.5217277
+,4106707922,bicycle_parking,-122.6749411,45.5217603
+,4106707923,telephone,-122.6760485,45.521789
+,4106707926,bicycle_parking,-122.6759888,45.5219229
+,4106707929,recycling,-122.6757729,45.5219606
+,4106707930,waste_basket,-122.6757683,45.5219703
+,4106707931,drinking_water,-122.67576,45.5219876
+,4106707934,bench,-122.6759486,45.5219962
+,4106707936,post_box,-122.6756371,45.5220234
+,4106707938,bicycle_parking,-122.6756505,45.5220469
+,4106707939,waste_basket,-122.6759056,45.5220517
+,4106707940,recycling,-122.6758986,45.5220652
+,4106707943,recycling,-122.6758294,45.522196
+,4106707945,waste_basket,-122.6758415,45.5221995
+,4106707948,waste_basket,-122.6756272,45.5222274
+,4106707949,recycling,-122.6756189,45.5222498
+,4106707952,bicycle_parking,-122.675732,45.5225003
+,4106707953,waste_basket,-122.6756765,45.5226272
+,4106707954,recycling,-122.6756681,45.5226496
+,4106707955,bicycle_parking,-122.6756147,45.5227549
+Taco Land,4139796190,fast_food,-122.6741525,45.5226478
+Zaalook,4139796191,fast_food,-122.6741579,45.5228282
+,4139796192,taxi,-122.6739105,45.5216777
+,4139796193,bicycle_parking,-122.6739406,45.5217021
+,4139796194,waste_basket,-122.6738065,45.5217153
+,4139796200,waste_basket,-122.6746213,45.5219389
+,4139796202,bicycle_parking,-122.6736329,45.5219845
+,4139796203,bicycle_parking,-122.6746025,45.5219859
+,4139796205,waste_basket,-122.6743624,45.5224049
+,4139796216,atm,-122.6742069,45.5229711
+,4154528335,bicycle_parking,-122.6782677,45.5244143
+,4154528336,bicycle_parking,-122.6780345,45.5244207
+,4154528337,bicycle_parking,-122.6779052,45.5244207
+,4154528338,bicycle_parking,-122.6776835,45.5244272
+,4154528339,bicycle_parking,-122.6777274,45.524864
+,4154528340,bicycle_parking,-122.6781199,45.5251148
+Biketown PDX NW 8th at Everett,4154528341,bicycle_rental,-122.6784871,45.5249611
+,4154528342,bicycle_parking,-122.6784525,45.5249708
+,4154528343,bicycle_parking,-122.6784271,45.5247815
+BrewCycle,4158851203,bicycle_rental,-122.6856545,45.5258661
+,4158851204,bicycle_parking,-122.6851966,45.5256601
+,4158851208,bicycle_parking,-122.6859892,45.5258039
+,4158851209,bicycle_parking,-122.6858108,45.5258062
+,4158851210,bicycle_parking,-122.6855613,45.5258133
+,4162519928,bicycle_parking,-122.6859842,45.5250916
+,4162519931,bicycle_parking,-122.6857437,45.5250988
+,4162519940,bicycle_parking,-122.685341,45.5252053
+,4162519942,bicycle_parking,-122.6862,45.5253152
+,4162519943,bicycle_parking,-122.6862007,45.5253523
+,4162519947,waste_basket,-122.6862101,45.525692
+Safeway,4172543691,pharmacy,-122.6847507,45.5303892
+,4172543695,waste_basket,-122.6863361,45.530079
+,4172543711,waste_basket,-122.6855895,45.5306751
+Portland Dermatology Clinic,4173986913,doctors,-122.6859452,45.5312955
+,4173986923,parking_entrance,-122.6863853,45.5309751
+,4173986928,bicycle_parking,-122.6855593,45.5312481
+,4173986929,bicycle_parking,-122.68556,45.5312903
+,4173986937,waste_basket,-122.6856163,45.5313735
+,4173986944,waste_basket,-122.686381,45.5313913
+,4173986947,bicycle_parking,-122.6860206,45.5313998
+,4173986948,bicycle_parking,-122.6858892,45.5314021
+,4173986952,motorcycle_parking,-122.686379,45.5314886
+,4173986955,waste_basket,-122.6852709,45.5315111
+,4173986988,bicycle_parking,-122.6856703,45.5322317
+,4173988590,bicycle_parking,-122.6856025,45.5323031
+,4175245447,bicycle_parking,-122.6832999,45.5249754
+,4175245455,waste_basket,-122.6822827,45.5252387
+,4175245461,bicycle_parking,-122.6822907,45.5253092
+,4175453928,bicycle_parking,-122.6830347,45.5243297
+,4175453937,bicycle_parking,-122.6825472,45.5244462
+,4175453938,bicycle_parking,-122.6824741,45.524449
+,4175453942,bicycle_parking,-122.682281,45.5248211
+,4175453949,bicycle_parking,-122.6822864,45.5248944
+,4175453951,bicycle_parking,-122.6831423,45.5249741
+,4175453957,bicycle_parking,-122.6829851,45.525046
+,4175453958,waste_basket,-122.6823427,45.5250466
+,4175453959,bicycle_parking,-122.6827128,45.5250477
+,4175453960,bicycle_parking,-122.6825761,45.5250486
+,4175453961,bicycle_parking,-122.68245,45.5250494
+,4177481710,waste_basket,-122.6830401,45.5237055
+,4177481711,bench,-122.6830196,45.523711
+,4177481712,recycling,-122.6830393,45.5237117
+,4177481717,bench,-122.6832415,45.523772
+,4177481719,waste_basket,-122.682233,45.5238007
+,4177481722,bicycle_parking,-122.6822354,45.5239322
+,4177481723,bicycle_parking,-122.6830967,45.5239393
+,4177481724,atm,-122.6820531,45.5239496
+,4177481727,parking_entrance,-122.6830667,45.5240206
+,4177481728,bicycle_parking,-122.6820952,45.5240699
+,4177481738,bicycle_parking,-122.6831369,45.5242696
+,4177481739,recycling,-122.6831248,45.5242877
+,4177481740,waste_basket,-122.6831404,45.524289
+,4177481744,bicycle_parking,-122.6823172,45.5243433
+,4177481746,waste_basket,-122.6830813,45.524433
+,4178639975,waste_basket,-122.6833343,45.5237036
+,4178639976,recycling,-122.6833211,45.5237038
+,4178639977,bicycle_parking,-122.6838329,45.5237039
+,4178639978,bicycle_parking,-122.6835024,45.5237072
+,4178639984,parking_entrance,-122.6840728,45.5239802
+,4178671796,waste_basket,-122.6840649,45.524316
+,4178671797,recycling,-122.6840637,45.5243237
+,4179568962,bicycle_parking,-122.683501,45.5251373
+,4179568963,bicycle_parking,-122.6835641,45.5251392
+,4179568971,bicycle_parking,-122.6833025,45.5253477
+,4179666175,waste_basket,-122.6842442,45.5230656
+,4179670891,bicycle_parking,-122.6843607,45.5236927
+,4179670892,parking_entrance,-122.6843105,45.5239408
+,4179670894,bicycle_parking,-122.6843338,45.5248671
+,4179670895,bicycle_parking,-122.6850098,45.5249902
+,4179670896,waste_basket,-122.6849856,45.5249912
+,4179670897,bicycle_parking,-122.684539,45.5250053
+,4182225936,waste_basket,-122.6765176,45.5209401
+,4182225938,recycling,-122.6765053,45.5209614
+,4182225942,drinking_water,-122.6773704,45.5211683
+,4182225944,bicycle_parking,-122.676382,45.5212233
+,4182225946,bench,-122.6773329,45.5212923
+,4182225948,bicycle_parking,-122.6773953,45.5214939
+,4182225949,car_sharing,-122.6764075,45.5215014
+,4182225952,waste_basket,-122.6766576,45.5215474
+,4182225953,taxi,-122.6765913,45.5215493
+,4184587070,bicycle_parking,-122.6790059,45.5203058
+,4184587071,recycling,-122.6780457,45.5203088
+,4184587074,waste_basket,-122.6780416,45.5203164
+,4184587076,waste_basket,-122.6778586,45.5203172
+,4184587077,recycling,-122.6778754,45.5203203
+,4184587078,bicycle_parking,-122.67775,45.5203237
+,4184587080,bench,-122.6766493,45.5203324
+,4184587083,bicycle_parking,-122.6774821,45.5203587
+,4184587084,bicycle_parking,-122.6766305,45.5203643
+,4184587087,fountain,-122.6765165,45.5203878
+,4184590292,bicycle_parking,-122.6781566,45.5204221
+,4184590305,bench,-122.6767123,45.5205621
+,4184590307,recycling,-122.6764867,45.5206363
+,4184590308,waste_basket,-122.6764793,45.5206552
+,4184590309,bicycle_parking,-122.6762429,45.5206758
+,4184590310,bicycle_parking,-122.6763475,45.5207031
+,4184590311,post_box,-122.6766908,45.5207876
+,4184590312,waste_basket,-122.6767498,45.5208036
+,4184590317,bicycle_parking,-122.6770248,45.5208835
+,4184590319,recycling,-122.6774983,45.5209336
+,4184590320,waste_basket,-122.6774828,45.5209682
+,4218545970,vending_machine,-122.6692971,45.5345348
+,4218545971,vending_machine,-122.669307,45.5345428
+,4223878239,waste_basket,-122.6615006,45.5396745
+,4223878252,bicycle_parking,-122.661504,45.5397298
+,4234852004,recycling,-122.6764377,45.5281043
+,4234852005,waste_basket,-122.6764379,45.5281136
+The Untattoo Parlor,4242208713,doctors,-122.6847887,45.5270752
+Joyful Noise,4244776477,kindergarten,-122.6724752,45.5202882
+,4244776613,bicycle_parking,-122.6717746,45.520348
+,4244776619,bicycle_parking,-122.671945,45.5206574
+,4244776621,bicycle_parking,-122.6719254,45.5207008
+,4244776623,bicycle_parking,-122.6718798,45.5207853
+,4244776627,bicycle_parking,-122.671807,45.5209233
+Zipcar,4251953138,car_sharing,-122.6628355,45.5345365
+,4254772314,smoking_area,-122.6768009,45.5286149
+,4254772316,bicycle_parking,-122.6765117,45.5287939
+Walgreens,4259516653,pharmacy,-122.6600984,45.5348406
+,4259516658,bench,-122.6628158,45.5342452
+,4259516664,vending_machine,-122.6641058,45.5344353
+,4259516665,vending_machine,-122.6603389,45.5344364
+,4259516688,charging_station,-122.6598385,45.5345762
+,4259517506,vending_machine,-122.6625877,45.5347265
+,4259517508,vending_machine,-122.6605349,45.5347743
+,4259517510,vending_machine,-122.6595432,45.534825
+,4259517519,vending_machine,-122.6601321,45.5349951
+,4259517520,vending_machine,-122.6631049,45.5350215
+,4259517521,vending_machine,-122.663444,45.5350328
+,4259952840,waste_basket,-122.6603973,45.5347217
+,4259952841,waste_basket,-122.6604737,45.5347215
+,4259952842,bicycle_parking,-122.6601847,45.5347192
+,4259952843,bicycle_parking,-122.6602143,45.534719
+,4259967431,bicycle_parking,-122.6610315,45.5349947
+,4272800621,bicycle_parking,-122.6613664,45.5344338
+,4272800622,parking_entrance,-122.6612718,45.5344502
+,4272800625,bicycle_parking,-122.6611733,45.5345631
+,4272800626,bicycle_parking,-122.6612105,45.5345631
+,4272800628,parking_entrance,-122.6615,45.5346941
+Taste of Bangkok,4277454128,restaurant,-122.659226,45.5346747
+Paraiso Mexican Food,4283205592,fast_food,-122.6736015,45.5225017
+,4285722857,bicycle_parking,-122.667001,45.5342292
+Lloyd Cycle Station,4301599422,bicycle_parking,-122.6581124,45.5309574
+Southwest 10th at Stark,4334040475,bicycle_rental,-122.6811438,45.5216817
+Northwest Naito at Ironside,4343744082,bicycle_rental,-122.6742288,45.5288769
+,4384746707,waste_basket,-122.6666319,45.5382307
+,4384746728,bicycle_parking,-122.6673252,45.5394335
+,4384746731,bicycle_parking,-122.6673373,45.5394885
+,4384746733,bicycle_parking,-122.6668451,45.5395369
+,4384746734,bicycle_parking,-122.6669282,45.5395387
+Biketown PDX NW 2nd at Everett,4386457058,bicycle_rental,-122.6725417,45.5254051
+Biketown PDX SW Naito at Ankeny Plaza,4386457060,bicycle_rental,-122.6703877,45.5226795
+Northwest Marshall at Tanner Springs Park,4404520107,bicycle_rental,-122.6817228,45.530892
+Northwest 13th at Marshall,4404550204,bicycle_rental,-122.684373,45.5308528
+Northwest Station at Irving,4404584316,bicycle_rental,-122.6767961,45.5284269
+,4408694693,bench,-122.6767304,45.528927
+,4408694720,bench,-122.6765688,45.5289943
+,4408694726,bench,-122.6765863,45.5290103
+,4408694732,bench,-122.6766054,45.5290295
+,4408694734,bench,-122.6768569,45.5290319
+,4408694748,bench,-122.6768791,45.5290526
+,4408694749,bench,-122.676818,45.5290549
+,4408694753,bench,-122.6769032,45.5290709
+,4408694759,bench,-122.6768402,45.5290756
+,4408694760,bench,-122.6767832,45.5290779
+,4408694768,bench,-122.6768643,45.5290939
+,4408694770,bench,-122.6768053,45.5290986
+,4408694778,bench,-122.6768294,45.5291169
+,4408694904,vending_machine,-122.6768628,45.5291699
+,4408694906,vending_machine,-122.6768692,45.5291746
+,4408694908,vending_machine,-122.6768773,45.5291807
+,4410764470,bicycle_parking,-122.6831521,45.5211139
+,4410764471,bicycle_parking,-122.6834189,45.5211844
+Southwest Stark at Burnside,4413713121,bicycle_rental,-122.6840963,45.5227684
+,4448506888,bicycle_parking,-122.6575647,45.5313005
+Northeast Multnomah at 9th,4448507498,bicycle_rental,-122.6575111,45.5314137
+Ovation,4471971661,cafe,-122.681322,45.5323653
+Northwest 11th at The Fields,4472022895,bicycle_rental,-122.6823985,45.5323377
+Northwest Johnson at Jamison Square,4472142641,bicycle_rental,-122.6820883,45.528627
+Biketown PDX NW Flanders at 14th,4472142646,bicycle_rental,-122.6855061,45.5258064
+Northwest 10th at Everett,4472142647,bicycle_rental,-122.6811096,45.5249637
+Northwest Couch at 1st,4472149716,bicycle_rental,-122.6716853,45.523826
+Biketown PDX SW 3rd at Ankeny,4472149717,bicycle_rental,-122.6731925,45.5224341
+Biketown PDX SW 2nd at Pine,4472149718,bicycle_rental,-122.6726118,45.5214362
+Stanford's Restaurant & Bar,4478203548,restaurant,-122.6558515,45.5317635
+,4503790292,bicycle_parking,-122.6872974,45.5214455
+,4503790293,bicycle_parking,-122.687288,45.521298
+,4506676949,bicycle_parking,-122.6685673,45.5347631
+,4506676950,bicycle_parking,-122.6685854,45.5347791
+,4506676961,bicycle_parking,-122.6682964,45.5345165
+,4506676962,bicycle_parking,-122.6683158,45.5345358
+The Hive,4506676968,coworking_space,-122.6683141,45.5346247
+Stingray Cafe,4506676970,pub,-122.6683919,45.5346961
+,4506676972,waste_basket,-122.6694141,45.5344319
+,4506676973,waste_basket,-122.6694081,45.5344963
+,4506677096,bicycle_parking,-122.6690458,45.5351274
+,4506677111,bicycle_parking,-122.6688403,45.5352338
+,4506677112,bicycle_parking,-122.6688389,45.5351878
+,4509374275,bench,-122.6756105,45.5264901
+,4509374282,waste_basket,-122.6756646,45.5278956
+,4509374283,recycling,-122.675665,45.5279117
+,4509374285,waste_basket,-122.6756405,45.5272728
+,4509374286,recycling,-122.6756248,45.5272706
+,4509374288,waste_basket,-122.6754939,45.5272644
+,4509375089,recycling,-122.6755131,45.5272635
+,4509375091,bicycle_parking,-122.6755016,45.527141
+,4509375092,bicycle_parking,-122.6755002,45.526939
+,4509375093,bench,-122.6754902,45.5268314
+,4509375094,waste_basket,-122.6754859,45.5265469
+,4509375095,recycling,-122.6754863,45.5265259
+,4509375097,bicycle_parking,-122.6754781,45.5267553
+,4509375098,waste_basket,-122.6754779,45.5267339
+,4509375099,recycling,-122.6754783,45.5267448
+,4509375101,waste_basket,-122.6756573,45.5266933
+,4509375102,recycling,-122.6756577,45.5267042
+,4509375103,waste_basket,-122.6765253,45.5267837
+,4509375104,recycling,-122.6765257,45.5267664
+,4509375105,bicycle_parking,-122.6766565,45.5268516
+,4509375106,bicycle_parking,-122.6766559,45.5268342
+,4509375107,waste_basket,-122.6766523,45.5267372
+,4509375108,recycling,-122.6766527,45.5267481
+,4509375109,bicycle_parking,-122.6766609,45.5269712
+,4509375110,bicycle_parking,-122.676662,45.5270008
+,4509375111,waste_basket,-122.6766689,45.5271922
+,4509375112,recycling,-122.6766685,45.5271801
+,4509375114,waste_basket,-122.6766781,45.5274693
+,4509375115,recycling,-122.6766779,45.5274849
+,4509375118,bicycle_parking,-122.6765413,45.5275659
+,4509375119,bench,-122.6765372,45.527627
+,4509375120,bicycle_parking,-122.6765453,45.5276852
+,4509375121,waste_basket,-122.6767123,45.5279323
+,4509375122,recycling,-122.676696,45.5279319
+,4510119659,bicycle_parking,-122.6748559,45.5266114
+,4510119662,bicycle_parking,-122.6747177,45.5266171
+,4510119666,bicycle_parking,-122.674459,45.5263977
+,4510119671,bicycle_parking,-122.6746052,45.5263321
+,4510119672,bicycle_parking,-122.6745797,45.526163
+,4510119679,bicycle_parking,-122.6744536,45.5262128
+,4510119680,bicycle_parking,-122.6744483,45.5260775
+,4510119683,bicycle_parking,-122.6747487,45.5260071
+,4510119685,bicycle_parking,-122.6753334,45.5258887
+,4510119687,recycling,-122.6755777,45.5260449
+,4510119688,waste_basket,-122.6755786,45.5260284
+,4510120990,recycling,-122.6754677,45.5260485
+,4510120991,waste_basket,-122.6754673,45.5260314
+,4510120992,bicycle_parking,-122.6754735,45.526291
+,4514992758,bicycle_parking,-122.6744025,45.5250445
+,4514992759,bicycle_parking,-122.6744012,45.5249806
+,4514992760,bicycle_parking,-122.6743864,45.5246987
+,4514992767,bicycle_parking,-122.6745396,45.5244161
+,4514992768,waste_basket,-122.67438,45.5243682
+,4514992771,bicycle_parking,-122.6740434,45.5238853
+,4514992772,bicycle_parking,-122.6743787,45.52441
+,4514992773,bicycle_parking,-122.6745218,45.5239518
+,4514992774,bicycle_parking,-122.6743613,45.5239548
+,4514992776,waste_basket,-122.6742754,45.5238759
+,4514992777,waste_basket,-122.6738731,45.5238843
+,4514992778,bicycle_parking,-122.673802,45.5238872
+,4514992779,bicycle_parking,-122.6736236,45.5238956
+,4514992780,bicycle_parking,-122.6733185,45.5234723
+,4514992782,waste_basket,-122.6733226,45.5237147
+,4514992783,bicycle_parking,-122.6733266,45.5236499
+,4514992786,bicycle_parking,-122.6735472,45.5243654
+,4514993458,waste_basket,-122.6733481,45.5244432
+,4514993459,bicycle_parking,-122.6733495,45.5243878
+,4514993460,bicycle_parking,-122.6733347,45.5240542
+,4514993461,bicycle_parking,-122.6733374,45.5241219
+,4514993462,bicycle_parking,-122.6732154,45.5238982
+,4514993463,bicycle_parking,-122.6731283,45.5238994
+,4514993464,bicycle_parking,-122.673037,45.5239006
+,4514993465,bicycle_parking,-122.6729324,45.523902
+,4514993470,bicycle_parking,-122.672917,45.5237944
+,4514993471,bicycle_parking,-122.6727533,45.5237944
+,4514993472,waste_basket,-122.6727869,45.5237916
+,4514993478,bicycle_parking,-122.6725099,45.5239643
+,4514993480,bicycle_parking,-122.6725192,45.5241879
+,4514993481,bicycle_parking,-122.6725139,45.5243195
+,4514993483,post_box,-122.6729259,45.524486
+,4514993484,bicycle_parking,-122.6729682,45.5245022
+,4514993485,bicycle_parking,-122.6730258,45.5245014
+,4514993486,bicycle_parking,-122.6731532,45.5244996
+,4514993492,bicycle_parking,-122.672595,45.5245074
+,4514993493,bicycle_parking,-122.6727358,45.5246173
+,4514993494,bicycle_parking,-122.672658,45.5246201
+,4514993495,bicycle_parking,-122.6726178,45.5246192
+Aprisa,4514993497,fast_food,-122.6722799,45.5244632
+,4514993498,waste_basket,-122.6725333,45.5246732
+,4514993500,bicycle_parking,-122.672539,45.5247914
+,4514993502,bicycle_parking,-122.6725417,45.5249332
+,4514993503,bicycle_parking,-122.6725296,45.5250404
+,4514993504,bicycle_parking,-122.6723861,45.5251484
+,4514993505,bicycle_parking,-122.6725377,45.5251221
+,4514993508,bicycle_parking,-122.6728998,45.5252283
+,4514993509,bicycle_parking,-122.6728327,45.5252292
+,4514993514,waste_basket,-122.6733631,45.5246683
+,4514993519,bicycle_parking,-122.6735509,45.5247251
+,4514993520,bicycle_parking,-122.6735626,45.524987
+,4514993521,bicycle_parking,-122.6735653,45.5250697
+,4514993523,bicycle_parking,-122.6733816,45.5251449
+,4514993527,bicycle_parking,-122.6737227,45.525203
+,4514993528,bicycle_parking,-122.6737562,45.5253148
+,4514993529,bicycle_parking,-122.6736785,45.5253186
+,4514993530,bicycle_parking,-122.6740473,45.5251993
+,4514993531,bicycle_parking,-122.6741532,45.5251974
+,4514993532,bicycle_parking,-122.6741418,45.5253073
+,4514993539,bicycle_parking,-122.6745716,45.5253637
+,4514993540,bicycle_parking,-122.6744134,45.5253637
+Whiz Bang Bar,4549663051,ice_cream,-122.672535,45.5213906
+,4549663052,atm,-122.6722527,45.5214747
+OP Wurst,4549663053,fast_food,-122.6723944,45.5214571
+Marukin,4549663054,fast_food,-122.6725003,45.5214393
+Kure,4549663055,cafe,-122.6723905,45.5213559
+Kim Jong,4549663056,fast_food,-122.6723144,45.5213773
+Brass Bar,4549663057,cafe,-122.6724297,45.5215571
+Shalom Y'all,4549663058,fast_food,-122.6723489,45.5215309
+,4549663059,toilets,-122.6721915,45.5214745
+Pollo Bravo,4549663061,fast_food,-122.6724733,45.5214949
+,4553002770,parking_entrance,-122.6862587,45.5282134
+,4704825604,bicycle_parking,-122.6852691,45.5272818
+,4704825609,bicycle_parking,-122.6852369,45.5267538
+,4704825610,bicycle_parking,-122.6852356,45.526704
+,4704825611,bicycle_parking,-122.6852343,45.5266748
+,4704825632,bicycle_parking,-122.6835542,45.5264536
+,4704825633,bicycle_parking,-122.6836065,45.5264517
+,4704825636,waste_basket,-122.6841671,45.5264395
+,4704825647,waste_basket,-122.6844259,45.5257271
+,4704825648,bicycle_parking,-122.6848329,45.5257121
+,4704825649,bicycle_parking,-122.6850173,45.5257088
+,4704825650,bicycle_parking,-122.6850388,45.5257088
+,4704825651,bicycle_parking,-122.6851126,45.5252209
+,4704825652,bicycle_parking,-122.6850971,45.5252209
+,4704825653,bicycle_parking,-122.6850817,45.525221
+,4704825654,bicycle_parking,-122.6850797,45.5251654
+,4704825655,bicycle_parking,-122.6850958,45.5251655
+,4704825656,bicycle_parking,-122.6851119,45.5251656
+,4704825657,bicycle_parking,-122.6847856,45.5251143
+,4704825658,bicycle_parking,-122.6847239,45.5251162
+,4704825659,bicycle_parking,-122.6846528,45.525118
+,4704825662,bicycle_parking,-122.6818718,45.523627
+,4704825663,bicycle_parking,-122.6819322,45.523626
+,4704825664,bicycle_parking,-122.6819925,45.523625
+,4704825668,bench,-122.683109,45.5237697
+,4706230348,bicycle_parking,-122.6853174,45.5290573
+,4706230353,post_box,-122.684558,45.5286841
+Pixie Retreat,4735337941,restaurant,-122.6820869,45.5263601
+PMC,4765553177,parking_entrance,-122.6758347,45.5205301
+,4765553183,bicycle_parking,-122.6756617,45.5204305
+,4765553208,bicycle_parking,-122.6766969,45.5202848
+,4766168437,bench,-122.6749488,45.5213089
+,4766168438,bicycle_parking,-122.6748214,45.5211722
+,4766168439,bicycle_parking,-122.6747228,45.5211445
+,4766168440,bicycle_parking,-122.6746544,45.5211267
+Taqueria Villanueva,4766168443,fast_food,-122.6742166,45.5210665
+Star Park,4766168444,parking_entrance,-122.6729812,45.5211856
+,4766168446,bicycle_parking,-122.6734595,45.5208123
+,4768043711,waste_basket,-122.6714133,45.5236803
+,4768043712,bicycle_parking,-122.6714737,45.5236897
+,4768043713,bicycle_parking,-122.671475,45.5236634
+,4768043716,post_box,-122.6715434,45.5238151
+,4768043717,bicycle_parking,-122.6716386,45.5238151
+,4768043718,bicycle_parking,-122.671813,45.5238142
+,4768043720,bicycle_parking,-122.672112,45.5237898
+,4768045221,bicycle_parking,-122.6723025,45.5234891
+,4768045222,bicycle_parking,-122.6722381,45.5233134
+,4768045226,bicycle_parking,-122.6756525,45.5231934
+,4768045227,bicycle_parking,-122.675509,45.5234564
+,4768045232,bench,-122.6764006,45.5235124
+,4768045234,bicycle_parking,-122.6763939,45.5233649
+,4768045235,recycling,-122.6763983,45.5232387
+,4768045236,waste_basket,-122.6763721,45.5232392
+,4890765787,waste_basket,-122.6833928,45.5321226
+,4890765788,bicycle_parking,-122.6833921,45.5320685
+,4890765789,bicycle_parking,-122.6833854,45.5319051
+,4890765790,bicycle_parking,-122.68338,45.531735
+,4890765791,bicycle_parking,-122.6833753,45.5316744
+,4890765801,bicycle_parking,-122.6832962,45.5314494
+,4890765802,waste_basket,-122.6832975,45.5315537
+,4890765803,bicycle_parking,-122.6827839,45.531565
+,4890765804,bicycle_parking,-122.6825237,45.5318459
+,4890765805,bicycle_parking,-122.682517,45.5316862
+,4890765806,bicycle_parking,-122.6825304,45.5319708
+,4890765807,bicycle_parking,-122.6825345,45.5320535
+,4890765812,bicycle_parking,-122.6828821,45.5322769
+,4890765813,bicycle_parking,-122.6832841,45.532294
+,4890765816,bicycle_parking,-122.6833566,45.5324002
+,4890765817,bicycle_parking,-122.6834022,45.5323353
+,4890765818,bicycle_parking,-122.6834223,45.5327891
+,4890766023,bicycle_parking,-122.6830253,45.5328868
+,4890766045,bicycle_parking,-122.6825586,45.5327929
+,4890766046,bicycle_parking,-122.6826042,45.5323767
+,4890766085,bicycle_parking,-122.6812973,45.5321968
+,4890766087,bicycle_parking,-122.6813583,45.5321211
+,4890766088,bicycle_parking,-122.6813449,45.531736
+,4890766089,bicycle_parking,-122.6813422,45.5316768
+,4987432620,parking_entrance,-122.686207,45.5286782
+WeVillage,4989006304,kindergarten,-122.6816207,45.5264146
+,5042008654,bicycle_parking,-122.6848492,45.527854
+,5042008655,bicycle_parking,-122.685045,45.527853
+,5042008656,bicycle_parking,-122.6851469,45.5278512
+,5042008658,bicycle_parking,-122.6849552,45.5279601
+,5042008659,bicycle_parking,-122.6850155,45.5279592
+,5042008662,bicycle_parking,-122.6852723,45.5277713
+,5042008663,bicycle_parking,-122.685271,45.5276529
+,5042008664,bicycle_parking,-122.6852717,45.5277159
+,5042008667,bicycle_parking,-122.6848599,45.5272508
+,5042008668,waste_basket,-122.6843872,45.5272823
+,5042305805,bicycle_parking,-122.6804397,45.5257954
+,5042305807,bicycle_parking,-122.6807977,45.5257898
+,5042305811,bicycle_parking,-122.6810653,45.5264982
+Albina Community Bank,5042305815,bank,-122.6807991,45.5256291
+Create Change,5052574075,doctors,-122.6810413,45.5253806
+,5052574081,bicycle_parking,-122.6811156,45.525336
+Williamson | Knight,5054795291,arts_centre,-122.6806234,45.5257419
+,5054795292,bicycle_parking,-122.6807307,45.5257569
+,5054795293,waste_basket,-122.6808259,45.5254149
+,5054795294,bicycle_parking,-122.6808165,45.5253585
+,5054795297,bicycle_parking,-122.6807642,45.5251833
+,5054795299,waste_basket,-122.6803002,45.5250776
+,5057264480,bicycle_parking,-122.6806965,45.5252246
+,5057264481,bicycle_parking,-122.6806072,45.5252261
+,5057264483,bicycle_parking,-122.6804798,45.5252282
+,5057264484,bicycle_parking,-122.6804128,45.5252293
+,5057264485,bicycle_parking,-122.6804269,45.5251885
+Gallo Nero,5057264491,restaurant,-122.6803806,45.5252439
+,5057264492,bicycle_parking,-122.68027,45.5252993
+,5057264497,bicycle_parking,-122.6803096,45.5253134
+Basic Space,5057264498,arts_centre,-122.6803283,45.5254046
+,5057264499,bicycle_parking,-122.680321,45.5254281
+,5057264500,bicycle_parking,-122.6802532,45.5254567
+,5057264501,bicycle_parking,-122.6803196,45.5256672
+,5057264502,bicycle_parking,-122.6802626,45.5256944
+,5057264505,bicycle_parking,-122.6804987,45.5257588
+,5059165273,bicycle_parking,-122.6793385,45.5244988
+,5059165274,bicycle_parking,-122.679407,45.5244972
+,5059165275,bicycle_parking,-122.6794378,45.5244965
+,5059165276,bicycle_parking,-122.6794875,45.5244954
+,5059165277,bicycle_parking,-122.6795171,45.5244947
+,5059165278,bicycle_parking,-122.6794981,45.5243853
+,5059165279,bicycle_parking,-122.6795304,45.5243851
+,5059165280,bicycle_parking,-122.6796056,45.5243846
+,5059165283,bicycle_parking,-122.6800749,45.5243212
+,5059165293,bicycle_parking,-122.6800695,45.5240807
+,5059165294,bicycle_parking,-122.6800668,45.5241305
+,5059165302,bicycle_parking,-122.6800608,45.5238665
+,5059165303,bicycle_parking,-122.6800588,45.5238453
+,5059165304,waste_basket,-122.6800568,45.5238035
+,5059165307,bicycle_parking,-122.6798596,45.5237749
+,5059165308,bicycle_parking,-122.6799025,45.5237742
+,5059165309,bicycle_parking,-122.6799582,45.5237733
+,5059165310,bicycle_parking,-122.6793815,45.5237829
+,5059165319,bicycle_parking,-122.6791897,45.5238918
+,5059165320,bicycle_parking,-122.6791913,45.523936
+,5059165521,bicycle_parking,-122.6791954,45.5240544
+,5059165523,bicycle_parking,-122.6792045,45.5243128
+,5059165537,bicycle_parking,-122.6802801,45.5244753
+,5059165538,bicycle_parking,-122.6803767,45.5244738
+,5059165539,bicycle_parking,-122.6804497,45.5244726
+,5059165541,bicycle_parking,-122.680587,45.5244704
+,5059165542,bicycle_parking,-122.680624,45.5244698
+,5059165543,bicycle_parking,-122.6806669,45.5244691
+,5059165544,bicycle_parking,-122.6809513,45.5244645
+Chili Pit,5059524275,restaurant,-122.6730101,45.5204431
+,5059524282,bicycle_parking,-122.6749519,45.5203297
+Prasad East,5063331326,restaurant,-122.6538656,45.5234883
+,5063414206,bicycle_parking,-122.682916,45.5313949
+,5063414207,bicycle_parking,-122.6830032,45.5314537
+,5063414208,bicycle_parking,-122.683378,45.5313654
+,5063414209,bicycle_parking,-122.6833626,45.5311709
+,5063414210,bicycle_parking,-122.6833589,45.5309757
+,5063415237,bicycle_parking,-122.683197,45.5308458
+,5063415238,bicycle_parking,-122.6829582,45.5308477
+,5063415264,bicycle_parking,-122.6826002,45.5308576
+,5063415265,waste_basket,-122.6824795,45.5309449
+,5063415270,bicycle_parking,-122.6825023,45.5311455
+,5063415271,bicycle_parking,-122.682513,45.5313212
+,5063415272,bicycle_parking,-122.6823071,45.5314612
+,5064751112,bicycle_parking,-122.6818813,45.5299322
+,5064751120,bicycle_parking,-122.681707,45.529453
+,5064751122,bicycle_parking,-122.6813985,45.529485
+,5064751123,bicycle_parking,-122.6814106,45.5298279
+,5064751127,bicycle_parking,-122.6814076,45.5299784
+,5064751128,waste_basket,-122.6814136,45.5299918
+,5064751130,bicycle_parking,-122.6817177,45.5298965
+,5064751131,bicycle_parking,-122.6816896,45.5299463
+,5064751134,bicycle_parking,-122.6819035,45.5300195
+,5064751136,atm,-122.682167,45.5299881
+,5064751138,bicycle_parking,-122.6822984,45.5298392
+,5065402425,bicycle_parking,-122.6812953,45.5298204
+,5065402426,bicycle_parking,-122.6812872,45.5296325
+,5065402427,bicycle_parking,-122.6812778,45.5294869
+,5065402428,bicycle_parking,-122.6810391,45.5293619
+,5065402429,bench,-122.6811732,45.5293534
+,5065402441,bicycle_parking,-122.6804182,45.5294512
+,5065402442,bicycle_parking,-122.6804242,45.5295944
+,5065402443,bicycle_parking,-122.6804356,45.5299608
+,5065402444,bicycle_parking,-122.6806187,45.5299867
+,5065402453,waste_basket,-122.6806358,45.5300489
+,5065402456,bicycle_parking,-122.6811015,45.5299843
+,5065402457,bicycle_parking,-122.6811431,45.5299857
+,5065500386,bicycle_parking,-122.6553154,45.5230058
+,5065500387,bicycle_parking,-122.6549238,45.5230067
+,5065500404,bicycle_parking,-122.6555689,45.5232304
+,5065500405,bicycle_parking,-122.6555716,45.5232041
+,5065500406,bicycle_parking,-122.6555675,45.5231524
+,5068142837,bicycle_parking,-122.6564768,45.5206069
+,5072747289,bicycle_parking,-122.6523462,45.5214272
+,5072747290,bicycle_parking,-122.6524374,45.5214254
+,5072747316,bicycle_parking,-122.6535425,45.5208888
+,5072747322,bicycle_parking,-122.6534674,45.5208249
+,5075597083,bicycle_parking,-122.6578433,45.5221621
+,5075597084,bicycle_parking,-122.6578876,45.5221615
+,5075597085,bicycle_parking,-122.6579708,45.5221603
+,5075597099,bicycle_parking,-122.6577508,45.5211914
+,5076428755,post_box,-122.6575443,45.5228442
+,5076428757,bicycle_parking,-122.6577549,45.5226074
+,5076428758,bicycle_parking,-122.6577576,45.522551
+,5079904223,bicycle_parking,-122.6584321,45.5223871
+,5079904224,bicycle_parking,-122.6584328,45.5224101
+,5079904238,waste_basket,-122.6579507,45.5228616
+,5085236032,bicycle_parking,-122.6586133,45.5233393
+,5085236033,bicycle_parking,-122.6586119,45.523362
+,5085236034,bicycle_parking,-122.6586104,45.5233864
+,5085236045,waste_basket,-122.6583932,45.5236936
+,5085236067,atm,-122.6588975,45.5227916
+,5085236068,bicycle_parking,-122.6589029,45.5228555
+,5085236069,bicycle_parking,-122.6590799,45.5228461
+,5085236070,bicycle_parking,-122.6593226,45.5228433
+,5085236071,bicycle_parking,-122.6588425,45.5228705
+,5085236081,bicycle_parking,-122.6598524,45.5228686
+,5085236091,bicycle_parking,-122.6593776,45.5222748
+Southeast 7th at Burnside,5085236104,bicycle_rental,-122.6587734,45.522723
+,5085236105,bicycle_parking,-122.6587714,45.5227643
+,5085236107,atm,-122.6581592,45.5228235
+Kells Irish Restaurant & Pub,5130542306,restaurant,-122.6722226,45.5216411
+Kell's Irish Pub,5130903968,pub,-122.6723421,45.5216762
+Heartfelt Veterinary Hospital,5148923480,veterinary,-122.6541553,45.5351934
+Jimmy John's,5148923483,fast_food,-122.6537074,45.5351934
+Chapman Elementary School @ The Ramona,5229031104,school,-122.6847564,45.5338475
+Elvis Room,5252372010,bar,-122.6609694,45.521365
+BAR Botellón,5311051238,bar,-122.6595349,45.5242488
+Bridgetown Bagels,5311051241,cafe,-122.6599694,45.523747
+COSUBE Cafe,5314038441,cafe,-122.662081,45.5237954
+Subway,5314050878,fast_food,-122.6618844,45.5318267
+Columbia Bank,5365057502,bank,-122.6614454,45.5281123
+Starbucks,5377125650,cafe,-122.6618975,45.530664
+Kitchen Kuu,5406322365,restaurant,-122.6619658,45.5238551
+Arden Wine Bar & Kitchen,5423192177,bar,-122.6814203,45.5260721
+Cider Riot,5762606887,pub,-122.6573308,45.5238064
+All American Ice Cream & Frozen Yogurt,5770950715,fast_food,-122.6532445,45.5324384
+Amore Coffee Café,5771124721,cafe,-122.6534896,45.5325526
+Auntie Anne's,5771124723,fast_food,-122.6533653,45.532799
+Braganza Bubble Tea,5771246012,cafe,-122.6533255,45.5327737
+Bridge City Café,5771246013,cafe,-122.6538808,45.5327686
+Cajun & Grill,5771490453,fast_food,-122.6533541,45.5330149
+Chicken Connection,5771490459,fast_food,-122.6532663,45.5327296
+Children’s Community Clinic,5771490460,clinic,-122.6523331,45.5323119
+Cinnabon,5771490461,fast_food,-122.6538445,45.5328194
+Dickey's Barbecue Pit,5771490466,restaurant,-122.653779,45.5328753
+Gentle Dental,5771758111,dentist,-122.6529215,45.5324397
+Jamba Juice,5771758118,fast_food,-122.6528914,45.53247
+Mail and More,5771832204,post_office,-122.653205,45.533035
+Medi Grill,5771847628,fast_food,-122.6539356,45.5327483
+Orange Julius,5771847634,fast_food,-122.6532777,45.5329049
+Sarku Japan,5772016204,fast_food,-122.6537931,45.5328529
+Starbucks,5772016212,cafe,-122.6553724,45.532346
+Subway,5772016214,fast_food,-122.653836,45.5328073
+Villa Italian Kitchen,5772016229,fast_food,-122.6537184,45.5329313
+Yeung’s Lotus Express,5772016233,fast_food,-122.6531862,45.532721
+Yo Yumba,5772016234,fast_food,-122.6553533,45.5325825
+Rebound Clinic,5793207323,clinic,-122.6681042,45.5315208
+Timber Dental East Burnside,5841129747,dentist,-122.6534032,45.5226302
+Deadstock Coffee,5857395570,cafe,-122.674859,45.523682
+Five Pines Dental,5891504463,dentist,-122.6757342,45.522668
+Altabira City Tavern,6024089488,restaurant,-122.6612887,45.5306349
+Avid Cider,6050381132,bar,-122.6803205,45.5239803
+Bar Casa Vale,6051707563,restaurant,-122.6569724,45.5211083
+Bistro Agnes,6067769324,restaurant,-122.6839337,45.5213861
+Bless your Heart Burgers,6067847931,fast_food,-122.6722916,45.5214283
+Blue Star Donuts,6075094437,cafe,-122.6838869,45.5206187
+Buffalo Wild Wings,6091544721,restaurant,-122.6531569,45.5347472
+Pho TNT,6096617401,restaurant,-122.6718707,45.5222885
+Cafe 700,6097372254,cafe,-122.6581448,45.5311217
+Cafe Today,6097565392,cafe,-122.6571034,45.5320866
+Cafe Yumm!,6097640002,restaurant,-122.658388,45.5302504
+Caffe Allora,6097667074,restaurant,-122.6800413,45.5268132
+Canopy Central,6098098989,restaurant,-122.6804265,45.5263077
+Pop Bagel,6106584962,fast_food,-122.6814234,45.5262873
+Portland Burger,6107403091,fast_food,-122.6729847,45.5204885
+Captain Ankeny's Pizza & Pub,6112145467,pub,-122.6722468,45.5210546
+Checkerboard Pizza,6122664597,fast_food,-122.6722856,45.5214025
+Citizen Baker,6127434732,cafe,-122.6608793,45.5306604
+City Coffee,6127440195,cafe,-122.6572798,45.5318911
+Cup and Bar,6138510554,cafe,-122.6614318,45.5239547
+Delicious Donuts Shop,6141590016,fast_food,-122.6603245,45.522484
+DEN,6141593063,restaurant,-122.6788082,45.5204379
+Even Keel Company,6154245256,cafe,-122.6706432,45.5244193
+f and b cafe,6164954516,cafe,-122.6629343,45.5240958
+Garden Bar,6169814653,restaurant,-122.6777318,45.5243372
+Hey Love,6173842685,restaurant,-122.6562387,45.522786
+Jamba Juice,6182740203,fast_food,-122.6531388,45.532553
+John's Cafe,6183017059,restaurant,-122.6777628,45.5253134
+Kalé,6217874450,restaurant,-122.6715023,45.5208688
+La Luna Cafe,6223574717,cafe,-122.6570315,45.5213852
+Lagunitas Community Room,6226368040,pub,-122.6629276,45.5353027
+Little Big Burger,6228741922,fast_food,-122.6578096,45.5302438
+Little Gotham Coffee,6235064167,cafe,-122.6742602,45.5394282
+Mandarin House,6240323464,restaurant,-122.6715762,45.522214
+Mashita Teriyaki,6240374688,restaurant,-122.6592494,45.534615
+Revelry,6242609106,restaurant,-122.6615572,45.5212605
+Monte Rossa Caffe,6243267698,cafe,-122.6746674,45.5257375
+Mother's Bistro & Bar,6244885685,restaurant,-122.6737719,45.5219512
+,6249937729,bicycle_parking,-122.6803285,45.5267368
+,6250101571,bicycle_parking,-122.6803587,45.5277458
+,6250101572,bicycle_parking,-122.6803746,45.5274603
+,6250384668,bicycle_parking,-122.6804026,45.5291252
+,6250394705,waste_basket,-122.6815982,45.5308161
+,6250394706,bicycle_parking,-122.6816158,45.5308167
+Rusty Nail Pizza & Pub,6251948444,restaurant,-122.6728385,45.5280997
+Santé Bar,6258439797,bar,-122.679369,45.5260792
+Shake,6267028496,nightclub,-122.6742411,45.5237032
+PBJ's Grilled,6274815562,restaurant,-122.6845232,45.5274686
+Stag PDX,6275076498,bar,-122.67777,45.5255102
+Tiger Express,6291939340,restaurant,-122.671985,45.5223144
+Temptations Cafe,6294299101,cafe,-122.6540568,45.5298508
+Tanner Creek Tavern,6296324800,restaurant,-122.6799388,45.5252956
+NATIAN BREWERY,6321528307,pub,-122.6523782,45.522783
+Tea Chai Té,6321721405,cafe,-122.6592729,45.5228142
+Zoom Performance,6330129108,doctors,-122.681168,45.5302631
+Subway,6330129109,fast_food,-122.6805809,45.5302717
+The Fields Bar & Grill,6330150345,pub,-122.6826507,45.5313784
+Via Delizia,6330150348,restaurant,-122.6825828,45.5309041
+Carlita's,6330174148,restaurant,-122.6826333,45.5316354
+Tea Bar,6330195141,cafe,-122.6819742,45.5316636
+Care Essentials,6330195142,doctors,-122.6818376,45.5316676
+Can Font,6330195143,restaurant,-122.681647,45.5316736
+Pizzicato,6330195144,fast_food,-122.6816178,45.5319779
+Yama Sushi & Sake Bar,6330354434,restaurant,-122.681189,45.529779
+The Hairy Lobster,6330396595,restaurant,-122.6820463,45.5294681
+U.S. Bank,6330396596,bank,-122.6821858,45.5298796
+Daily,6330455520,restaurant,-122.6841932,45.5295312
+Benchmark Physical Therapy,6330455521,doctors,-122.6841948,45.5296366
+Bling,6330455522,dentist,-122.6842065,45.5298999
+Greenleaf,6330455524,cafe,-122.6831668,45.52888
+Bar Rione,6330455525,bar,-122.6831611,45.5287878
+Piazza Italia,6330455526,restaurant,-122.6830241,45.5287887
+Cool Moon Ice Cream,6330455527,ice_cream,-122.6825787,45.528778
+Wells Fargo,6330455530,bank,-122.6825378,45.5292017
+Olive Or Twist,6330455532,bar,-122.6825573,45.5296494
+Starbucks,6330455534,cafe,-122.6826189,45.5299002
+FedEx Office,6330455537,post_office,-122.6831125,45.5299294
+Urban Grind Coffee,6332002071,cafe,-122.6855616,45.5294767
+Pearl Thai Cafe,6332002074,fast_food,-122.6855858,45.5298923
+KeyBank,6332002076,bank,-122.68568,45.5301919
+Providence Express Care,6332002080,clinic,-122.6856311,45.5302986
+Starbucks,6332056735,cafe,-122.6819732,45.523831
+Chipotle,6332343045,fast_food,-122.6836167,45.5302197
+Optima Dental,6332343046,dentist,-122.6837911,45.5302084
+Bank of America,6332343049,bank,-122.6842631,45.5302723
+Bodywise,6332386625,doctors,-122.6832724,45.5306659
+Umpqua Bank,6332386635,bank,-122.6831017,45.5302181
+Sungari Pearl,6332386636,restaurant,-122.6826641,45.5302144
+Giorgio's,6332438993,restaurant,-122.683033,45.5273492
+ZoomCare,6332483585,clinic,-122.684033,45.5244715
+Bluehour,6332483589,restaurant,-122.6840377,45.5249139
+Montesacro,6332533818,restaurant,-122.6838578,45.5270899
+Cider Bite,6332533819,bar,-122.6838972,45.5270252
+Columbia Bank,6332533822,bank,-122.6836261,45.5266251
+Chase,6334452362,bank,-122.6822019,45.5302272
+Hosmer Chiropractic Health,6334452363,doctors,-122.6821965,45.5306518
+Sisters Coffee Company,6334484405,cafe,-122.6843027,45.5308815
+Pearl Animal Hospital,6334500985,veterinary,-122.6812724,45.5321426
+Cerulean,6334862052,pub,-122.6862821,45.5308467
+On Deck,6334883053,bar,-122.6848779,45.5296142
+Brix Tavern,6342589432,restaurant,-122.6848826,45.5270778
+Verde Cocina,6342589434,restaurant,-122.6851349,45.5268924
+River Pig Saloon,6342589437,bar,-122.6844806,45.5268858
+Barista,6342589438,cafe,-122.6844815,45.5269629
+Really Big Video Studios,6342602549,studio,-122.6814602,45.527121
+Starbucks,6342620376,cafe,-122.6830847,45.5263948
+Common Health,6344056647,doctors,-122.6858769,45.5344234
+,6344312818,parking_entrance,-122.6796253,45.5316729
+10 Barrel Brewing,6344321395,pub,-122.6854954,45.5258997
+Back Pedal Brewing,6344321396,pub,-122.6856536,45.5258986
+Portland Integrated Health and Sports Medicine,6344321398,doctors,-122.6858497,45.5258963
+Khao San,6344321400,restaurant,-122.6860869,45.5258986
+Black Rock,6344342532,cafe,-122.6845251,45.5275236
+Paragon,6344342533,restaurant,-122.6846209,45.5273495
+Mio Sushi,6344342534,restaurant,-122.6848495,45.5273395
+Peter Leitner,6346326094,doctors,-122.6831108,45.5269065
+Pacific University,6346326097,university,-122.6831205,45.527042
+The Art Institute of Portland,6346333046,college,-122.6826873,45.524231
+Holsteins,6346333050,restaurant,-122.6828997,45.5238516
+Chase,6346344606,bank,-122.6839708,45.5237941
+Cookie Dough Cafe,6346344611,fast_food,-122.6839855,45.5241211
+Asula,6348592155,doctors,-122.6795323,45.530713
+Upfor,6348620394,arts_centre,-122.6806126,45.52597
+PDX Contemporary Art,6348620395,arts_centre,-122.6804003,45.5259733
+Elizabeth Leach Gallery,6348620397,arts_centre,-122.6804042,45.5261074
+Women to the Front,6348620398,arts_centre,-122.6804061,45.5261741
+Teardrop Lounge,6348632863,bar,-122.6816527,45.5252402
+Ben & Jerry's,6348632864,ice_cream,-122.6813902,45.5252433
+,6357461730,parking_entrance,-122.6843951,45.5326923
+The UPS Store,6357485160,post_office,-122.6841088,45.5262135
+Cha! Cha! Cha!,6357485165,restaurant,-122.6835332,45.5263968
+Byways Cafe,6357485166,restaurant,-122.6836295,45.5263949
+Bambuza,6357495059,restaurant,-122.6809529,45.5238124
+Los Gorditos,6357495061,restaurant,-122.6807242,45.5242909
+Sushi Land,6357495062,restaurant,-122.6809653,45.5242835
+Little Big Burger,6357495064,fast_food,-122.6809624,45.5241723
+,6363758681,toilets,-122.6819239,45.5323358
+,6363758682,drinking_water,-122.6821482,45.5325072
+Caffè Umbria,6363970743,cafe,-122.6834263,45.5252148
+Bullseye Projects,6363970747,arts_centre,-122.6840168,45.5252149
+Mediterranean Exploration Company,6363970751,restaurant,-122.6844529,45.5256446
+Aveda Institute,6363970752,college,-122.6844479,45.5255201
+Kaplan,6363970753,college,-122.6844455,45.525462
+Tilt,6363970754,restaurant,-122.6844864,45.5252223
+Centrl Office,6363970755,coworking_space,-122.6849384,45.5252129
+,6366474485,parking_entrance,-122.68234,45.5254381
+,6366474486,parking_entrance,-122.6831184,45.525413
+Garden Bar,6366583227,restaurant,-122.6823413,45.5232933
+Sur La Table Culinary Program,6366583228,school,-122.6823427,45.5233694
+Peet's Coffee,6366583230,cafe,-122.6825733,45.5235442
+Stage 13,6366630986,studio,-122.6843658,45.5231932
+Ffake,6366630987,studio,-122.6843715,45.5232676
+PMC,6366630989,parking,-122.6846863,45.5232769
+Gallery 903,6369206841,arts_centre,-122.6805451,45.5245459
+Backwoods Brewing Company,6369206848,restaurant,-122.6824607,45.5249571
+Oven and Shaker,6369206850,restaurant,-122.6827897,45.5249598
+Vault Cocktail Lounge,6369206851,bar,-122.6829993,45.5247844
+Pink Rabbit,6369206852,bar,-122.6830022,45.5248754
+Piattino,6369206853,restaurant,-122.6830107,45.5249511
+Fuller's,6369215304,restaurant,-122.6799676,45.5243049
+Waterstone Gallery,6369215305,arts_centre,-122.6799632,45.5241852
+Annie Meyer Gallery,6369215306,arts_centre,-122.6799611,45.5241307
+Gallery 135,6369215307,arts_centre,-122.679367,45.5243212
+Eleni's Philoxenia,6369215313,restaurant,-122.6799581,45.5240486
+Arthouse Cafe,6369215317,cafe,-122.679281,45.5236051
+The Big Legrowlski,6369215318,bar,-122.67941,45.5236024
+Splash Bar,6369225788,bar,-122.6805691,45.5235869
+Sanctuary,6369225789,nightclub,-122.6802991,45.5235278
+Courier Coffee Roasters,6377579588,cafe,-122.6805313,45.5227652
+Maurice,6377579589,restaurant,-122.6804557,45.5227475
+Thai Peacock,6377579590,restaurant,-122.6802586,45.5227014
+Adams and Ollman,6377579592,arts_centre,-122.6802631,45.5227991
+Pond Gallery,6377579598,arts_centre,-122.6806133,45.5228851
+Sizzle Pie,6377579599,fast_food,-122.6808608,45.5228592
+Quality Bar,6377579600,bar,-122.6807005,45.5228193
+The Roxy,6377650418,restaurant,-122.6826277,45.5225468
+Scandals,6377650424,bar,-122.6827651,45.5226065
+Grassa,6377702630,restaurant,-122.6836868,45.5221128
+Lardo,6377702631,restaurant,-122.683556,45.522057
+Jake's Famous Crawfish,6377702632,restaurant,-122.683336,45.5225055
+Masu,6377702633,restaurant,-122.6840655,45.5224687
+Pépé le Moko,6377765016,bar,-122.6813293,45.5219344
+The Cleaners,6377765017,community_centre,-122.6813101,45.5219708
+Clyde Common,6377765018,restaurant,-122.6814401,45.5219957
+Stumptown,6377765019,cafe,-122.681766,45.522084
+Kenny and Zuke's Delicatessen,6377765020,restaurant,-122.6819175,45.5220887
+Wailua,6380205385,ice_cream,-122.6816399,45.5224853
+Boxer Ramen,6380205387,restaurant,-122.6816386,45.5223077
+,6380205390,toilets,-122.6817593,45.522613
+Kure,6380225408,cafe,-122.6829807,45.5222987
+Bamboo Sushi,6380225409,restaurant,-122.6829339,45.5223859
+QuickFish,6380225412,restaurant,-122.6826636,45.5223168
+Ruby Jewel,6380225413,ice_cream,-122.6830676,45.522137
+Cheryl's on 12th,6380225415,restaurant,-122.6831662,45.5219534
+Beneficial State Bank,6380225416,bank,-122.6825659,45.5218145
+Cassidy's,6380232548,restaurant,-122.6851301,45.522469
+Scooter McQuade's,6380232550,bar,-122.6849481,45.5224231
+Café Voilà,6380264144,restaurant,-122.6804852,45.5212365
+City Club of Portland,6380264145,social_facility,-122.6805464,45.5212522
+Literary Arts,6380264149,social_facility,-122.6809839,45.5213647
+Mug Shots,6380264151,cafe,-122.6810005,45.5216389
+Downtown Community Public Safety Office,6380264155,police,-122.680323,45.5216058
+Kask,6382619635,bar,-122.684119,45.521434
+Heart,6382619637,cafe,-122.6838792,45.5214869
+Tasty 'N Alder,6382643742,restaurant,-122.6835068,45.5212919
+Indio Spirits,6382643746,bar,-122.6830429,45.5211468
+The Green Room,6382653470,bar,-122.6833753,45.5209753
+Multnomah Whiskey Library,6382653471,bar,-122.6834192,45.5209861
+Chizu,6382653472,bar,-122.6834621,45.5209967
+Pollo Bravo,6382653473,restaurant,-122.6835177,45.5210105
+Petunia's Pies & Pastries,6382653475,restaurant,-122.6837026,45.520948
+Jake's Grill,6382682698,restaurant,-122.6820986,45.5205506
+Jackknife,6382682699,bar,-122.6827793,45.5205182
+Starbucks,6382682700,cafe,-122.682656,45.5207421
+Thai Time Café,6382682704,restaurant,-122.6828972,45.5203373
+Opus Bank,6388694693,bank,-122.6793158,45.5203692
+The Fresh Pot,6388694706,cafe,-122.6795627,45.5207421
+Peet's Coffee,6388720156,cafe,-122.6787718,45.5205122
+El Gaucho,6390177489,restaurant,-122.6786788,45.521555
+The Independent Sports Bar & Grill,6390203065,bar,-122.6783356,45.5221979
+Bailey's Taproom,6390203066,pub,-122.6781184,45.5225447
+Mary's Club,6390214561,stripclub,-122.6778955,45.5227626
+Santeria,6390214564,restaurant,-122.678052,45.5226955
+Pazzo,6399658146,restaurant,-122.6785251,45.5207135
+Imperial,6399658151,restaurant,-122.6785085,45.5210129
+Portland Penny Diner,6399658152,cafe,-122.6784146,45.5211829
+Starbucks,6399658164,cafe,-122.6780131,45.520574
+,6399658165,atm,-122.6779828,45.5206518
+Saucebox,6399874669,bar,-122.6777675,45.5223859
+Lauretta Jean's,6399874672,cafe,-122.6770534,45.5223527
+Bunk Sandwiches,6399874673,restaurant,-122.6771312,45.5222384
+Little Bird,6399874674,restaurant,-122.6771672,45.522174
+Paul Mitchell,6399874678,college,-122.6779076,45.522084
+,6400011112,bench,-122.6847368,45.5208147
+,6400011113,bench,-122.6846503,45.5207923
+,6400011114,bench,-122.6845912,45.5207663
+,6400011115,bench,-122.6845241,45.5207492
+,6400011116,bench,-122.6844605,45.5207324
+,6400011117,bench,-122.6843904,45.5207154
+,6400011118,bench,-122.6849587,45.5208629
+Shift Drinks,6400116371,bar,-122.6844234,45.5204984
+,6405320348,parking_entrance,-122.6857466,45.5272594
+,6421786972,waste_basket,-122.6813026,45.52904
+,6421832192,waste_basket,-122.6815024,45.5287437
+,6421832193,waste_basket,-122.6814986,45.5287446
+The Plank,6422725694,bar,-122.6766243,45.5236659
+Brody Theater,6422725700,theatre,-122.6772457,45.5234014
+Old Town Clinic,6422725708,clinic,-122.6781525,45.5232118
+Mi Mero Mole,6422834036,restaurant,-122.6752308,45.5236767
+,6436888820,bench,-122.6861616,45.5328438
+,6436888821,bench,-122.6860609,45.5328444
+,6441365408,bench,-122.6853067,45.5224857
+,6441439315,bench,-122.6823509,45.5335679
+The Whiskey Bar,6442335659,nightclub,-122.6715716,45.5235489
+Angelina's,6442335660,restaurant,-122.6715937,45.5237476
+Floyd's Coffee Shop,6442335661,cafe,-122.6717406,45.5237457
+Employment Access Center,6442335662,social_facility,-122.672193,45.5234471
+Good Taste,6442335665,restaurant,-122.6742256,45.5235038
+Charlie's Deli,6442335666,fast_food,-122.6742256,45.5235635
+Old Town Pizza,6442418546,restaurant,-122.6730713,45.5244374
+Supportive Housing,6442418547,social_facility,-122.6732227,45.5241438
+Old Town Precinct,6442418549,police,-122.6732165,45.5240281
+Duplex,6442418551,arts_centre,-122.6729008,45.5239615
+Subway,6442418555,fast_food,-122.6726083,45.5239675
+Jones,6442418564,nightclub,-122.6716889,45.5240215
+Red Robe Tea House & Cafe,6442437041,cafe,-122.6736751,45.5244171
+Fortune,6442437043,bar,-122.6742607,45.5239552
+Davis Street Tavern,6442529987,pub,-122.6757372,45.5243818
+Fifth Avenue Lounge,6442529988,nightclub,-122.6756357,45.5242525
+Theo's,6442529989,restaurant,-122.6756315,45.5241888
+Ground Kontrol Arcade,6442529991,pub,-122.6756231,45.5240525
+,6443521020,bench,-122.6837489,45.5329607
+,6443521021,bench,-122.683781,45.5329563
+,6443521022,bench,-122.6838143,45.532961
+,6443521023,bench,-122.6838936,45.5329739
+,6443521024,bench,-122.6841541,45.5328781
+,6443521025,bench,-122.6841995,45.5328773
+,6443521026,bench,-122.6831035,45.5328911
+,6443521027,bench,-122.6823222,45.5323998
+,6443521028,bench,-122.6825616,45.5323812
+,6443521029,bench,-122.6835677,45.5308745
+,6443521030,bench,-122.6843711,45.5306169
+Mingle Lounge,6444731301,bar,-122.674072,45.5251305
+Golden Horse Seafood,6444731302,restaurant,-122.6742996,45.5251226
+Republic Cafe,6444731303,restaurant,-122.6742929,45.524979
+Trailhead Credit Union,6444731306,bank,-122.6726827,45.5251377
+Rainbow Room,6444731307,bar,-122.6732479,45.5246787
+Darcelle XV,6444731308,theatre,-122.6732583,45.5248209
+CC Slaughters,6444731309,nightclub,-122.6729454,45.5246801
+Kasbah Moroccan Cafe,6444731312,fast_food,-122.6726457,45.5246834
+,6445785310,bench,-122.6755783,45.5254462
+,6447022798,bench,-122.6842131,45.5269345
+,6447022799,bench,-122.6851411,45.5265564
+,6447027357,parking_entrance,-122.6801184,45.5271133
+,6449012995,bench,-122.682241,45.5279678
+,6449012996,bench,-122.681281,45.5283511
+,6449012997,bench,-122.6812511,45.52858
+,6449012998,bench,-122.6812589,45.5290187
+,6449012999,bench,-122.6814465,45.5293135
+,6449013000,bench,-122.6812874,45.5296354
+,6449013001,bench,-122.6816042,45.5292758
+,6449013002,bench,-122.6816496,45.5292785
+,6449013003,bench,-122.6816477,45.5292622
+,6449013004,bench,-122.6814681,45.5290026
+,6449013005,bench,-122.6814681,45.5290158
+,6449013006,bench,-122.6814686,45.52903
+,6449013007,bench,-122.6814764,45.5290314
+,6449013008,bench,-122.681665,45.5287857
+,6449013009,bench,-122.6816675,45.5287929
+,6450155642,bench,-122.6794512,45.5309653
+,6450155643,bench,-122.6797615,45.5326236
+,6450155644,bench,-122.6797738,45.5325961
+,6450155645,bench,-122.6798046,45.5325875
+,6450155646,bench,-122.6797993,45.5326091
+,6450155647,bench,-122.6816361,45.5323477
+,6450155648,bench,-122.6814599,45.531099
+,6450155649,bench,-122.6814604,45.5311046
+,6450155650,bench,-122.6821547,45.5311245
+,6450155651,bench,-122.6821129,45.531246
+,6450155652,bench,-122.6821098,45.5312622
+,6450155653,bench,-122.6820731,45.5312812
+,6450869926,bench,-122.6799147,45.5212328
+,6451068058,bench,-122.679102,45.5323569
+,6451100834,bench,-122.677009,45.528893
+,6451100835,bench,-122.676938,45.5288977
+,6451100836,bench,-122.6768636,45.5286809
+,6451100837,bench,-122.676875,45.5286401
+,6451100838,bench,-122.676863,45.5286106
+,6451100839,bench,-122.6768059,45.5286639
+,6451100840,bench,-122.6767872,45.5286211
+,6451100841,bench,-122.6767473,45.5286098
+,6451100842,bench,-122.6768252,45.5285814
+,6451100843,bench,-122.6767716,45.5285661
+,6451100844,bench,-122.676723,45.5285657
+,6451100845,bench,-122.6765024,45.5287379
+,6451100846,bench,-122.6764743,45.5287144
+,6451100847,bench,-122.6778022,45.5276164
+The Portland Loo,6451182489,toilets,-122.6786428,45.5238474
+Golden West Hotel,6451204970,social_facility,-122.6778866,45.5253045
+,6451224173,telephone,-122.6764167,45.5242897
+,6451246585,bench,-122.6765805,45.5244571
+,6451246586,bench,-122.6777503,45.5251157
+,6451444917,bench,-122.6761469,45.5218563
+,6452941821,bench,-122.6791284,45.5263256
+,6452941822,bench,-122.6791296,45.5263092
+,6452941823,bench,-122.679133,45.5262578
+,6452941824,bench,-122.679133,45.5262501
+,6452941825,bench,-122.6791265,45.5261858
+,6452941826,bench,-122.6787218,45.5262025
+,6452941827,bench,-122.6787237,45.5261874
+,6452941828,bench,-122.6787254,45.5262518
+,6452941829,bench,-122.6787254,45.5262698
+,6452941830,bench,-122.6787255,45.5263242
+,6452941831,bench,-122.6790473,45.5256801
+,6452941832,bench,-122.6790482,45.5256507
+,6452941833,bench,-122.6790496,45.5255867
+,6452941834,bench,-122.679051,45.5255627
+,6452941835,bench,-122.6786766,45.5254565
+,6452941836,bench,-122.6786754,45.5254369
+,6452941837,bench,-122.678685,45.5255625
+,6452941838,bench,-122.6786826,45.5255932
+,6452941839,bench,-122.6787123,45.5256557
+,6452941840,bench,-122.6789987,45.5248966
+,6452941841,bench,-122.6789994,45.5248833
+,6452941842,bench,-122.6787107,45.5249015
+,6452941843,bench,-122.6787122,45.5248941
+,6452941844,bench,-122.6789964,45.5248056
+,6452941845,bench,-122.6789541,45.5247206
+,6452941846,bench,-122.6787059,45.5247768
+,6452941847,bench,-122.678707,45.5247979
+,6452941848,bench,-122.6787461,45.5242817
+,6452941849,bench,-122.6787279,45.5242234
+,6452941850,bench,-122.6787279,45.5241988
+,6452985933,bench,-122.67891,45.5234899
+,6452985934,bench,-122.6789123,45.5234625
+,6452985935,bench,-122.678321,45.5213412
+Stone Soup,6453783901,restaurant,-122.6773243,45.5253227
+,6459518928,bench,-122.6762105,45.5217975
+Shanghai Tunnel,6461084952,bar,-122.6725789,45.5226196
+Tryst,6461084953,bar,-122.6727144,45.5226218
+Opaline's,6461084954,restaurant,-122.6728228,45.5226239
+Bar Fifteen,6461084955,bar,-122.6725533,45.5227864
+Kit Kat Club,6461084956,stripclub,-122.6729655,45.5226256
+Dante's,6461084962,nightclub,-122.6736893,45.5229433
+Lonesome's Pizza,6461084963,fast_food,-122.6735894,45.5229439
+Kingsland Kitchen,6466142802,restaurant,-122.6738749,45.5217659
+,6471033337,bicycle_parking,-122.6815302,45.5287619
+,6471033338,bicycle_parking,-122.6810554,45.5287469
+,6473572206,bicycle_parking,-122.6819209,45.5271892
+,6473572207,bicycle_parking,-122.6811367,45.5279156
+,6473572208,bicycle_parking,-122.68104,45.5279177
+,6473572209,bicycle_parking,-122.6812171,45.5278269
+,6473572210,bicycle_parking,-122.6812176,45.5276691
+,6473572211,bicycle_parking,-122.6810293,45.5273251
+,6473572212,bicycle_parking,-122.6808603,45.5273214
+Chase,6474198297,bank,-122.6770212,45.5203262
+OnPoint,6474198303,bank,-122.67666,45.5209952
+The Original,6474198304,restaurant,-122.6770778,45.5214827
+,6476622589,bicycle_parking,-122.6820408,45.5258755
+,6476622590,bicycle_parking,-122.6820104,45.5258765
+,6476622591,bicycle_parking,-122.6816936,45.5259016
+,6476622592,bicycle_parking,-122.6816487,45.5259061
+,6476622593,bicycle_parking,-122.6816197,45.5257434
+,6477045901,bicycle_parking,-122.683526,45.5310381
+,6477045902,bicycle_parking,-122.6833492,45.5306381
+,6477045903,bicycle_parking,-122.6823678,45.5270999
+,6477045904,bicycle_parking,-122.6823665,45.5270601
+,6477045905,bicycle_parking,-122.6823619,45.5269794
+,6477045907,bicycle_parking,-122.6808579,45.5322313
+,6477045908,bicycle_parking,-122.6812435,45.5315964
+,6477045909,bicycle_parking,-122.6806785,45.5316066
+,6477045910,bicycle_parking,-122.6812434,45.5314849
+,6477045911,bicycle_parking,-122.6811438,45.5314873
+,6478816936,bicycle_parking,-122.6832556,45.5242825
+,6478816937,bicycle_parking,-122.682359,45.5309146
+,6478816938,bicycle_parking,-122.6823591,45.5313901
+,6478816939,bicycle_parking,-122.6816505,45.5314755
+,6478906806,bicycle_parking,-122.6809989,45.5243626
+,6478906807,bicycle_parking,-122.6812504,45.5242681
+,6478966180,bicycle_parking,-122.6805956,45.5314974
+,6478966181,bicycle_parking,-122.6805007,45.5316816
+,6478966182,bicycle_parking,-122.6805112,45.5318891
+,6478966183,bicycle_parking,-122.6805219,45.5321417
+,6478966184,bicycle_parking,-122.6806131,45.5322129
+,6478966685,bicycle_parking,-122.6804382,45.5324263
+,6479125347,bench,-122.6582121,45.5309825
+,6479350336,bicycle_parking,-122.6837726,45.5328725
+,6479350337,bicycle_parking,-122.6842766,45.5328677
+,6479350338,bicycle_parking,-122.684454,45.5328104
+,6479350339,bicycle_parking,-122.6847328,45.5322539
+,6479350340,bicycle_parking,-122.6837049,45.5315518
+,6479379865,bicycle_parking,-122.6846049,45.5301443
+,6479397753,bicycle_parking,-122.6816089,45.5314678
+,6479397754,bicycle_parking,-122.6813143,45.5312971
+,6479397755,bicycle_parking,-122.6813396,45.5312335
+,6479425204,bicycle_parking,-122.6845123,45.528581
+,6479425205,bicycle_parking,-122.6842903,45.5285475
+,6479457534,bicycle_parking,-122.6847471,45.5279739
+,6481420105,bicycle_parking,-122.6805263,45.5287542
+,6481727912,bicycle_parking,-122.6845921,45.5244088
+,6481744219,bicycle_parking,-122.6836585,45.5329786
+,6481744220,bicycle_parking,-122.6828242,45.5321766
+,6481744221,bicycle_parking,-122.683539,45.5319834
+,6483569787,bicycle_parking,-122.6813296,45.5311805
+,6483569788,bicycle_parking,-122.6813466,45.5309432
+,6483569789,bicycle_parking,-122.6813138,45.5304171
+,6483569790,bicycle_parking,-122.6793285,45.5270927
+,6483569791,bicycle_parking,-122.6796722,45.5272395
+,6483569792,bicycle_parking,-122.6800519,45.527226
+,6483569793,bicycle_parking,-122.6800752,45.5272256
+,6483569794,bicycle_parking,-122.68037,45.5279073
+,6483569795,bicycle_parking,-122.6804553,45.527936
+,6483609002,bicycle_parking,-122.6792582,45.5255056
+,6483609003,bicycle_parking,-122.6795177,45.5258154
+,6483609004,bicycle_parking,-122.6792692,45.5260085
+,6483609005,bicycle_parking,-122.6792736,45.5261517
+,6483609006,bicycle_parking,-122.6793936,45.5266389
+,6483609007,bicycle_parking,-122.680154,45.5266883
+,6483609008,bicycle_parking,-122.6792611,45.5249986
+,6483609009,bicycle_parking,-122.6792559,45.5246756
+,6486489636,waste_basket,-122.6791625,45.5208145
+,6486559266,waste_basket,-122.6765474,45.5243798
+,6486559267,waste_basket,-122.6765359,45.5238908
+,6486559268,waste_basket,-122.6765203,45.5232248
+E-San Thai Cuisine,6487390169,restaurant,-122.6728631,45.5215259
+Pedal Bike Tours And Rentals,6487390170,bicycle_rental,-122.6727739,45.5216777
+Tangier,6487390171,restaurant,-122.6732071,45.5215806
+Bijou Café,6487390173,restaurant,-122.6734309,45.521661
+Lechon,6487390176,restaurant,-122.6708288,45.5212617
+Thirsty Lion,6487390179,pub,-122.6725319,45.5221866
+Dan & Louis Oyster Bar,6487390180,restaurant,-122.6725168,45.522445
+District,6487390181,bar,-122.672785,45.5224847
+Valentine's,6487390182,bar,-122.6728553,45.5224858
+Fuse,6487390183,cafe,-122.6729345,45.5224882
+SuBe,6487390385,restaurant,-122.6730448,45.5224453
+AFURI ramen + dumplings,6487390387,restaurant,-122.6730911,45.5223133
+Impossible Box Arts,6487420435,arts_centre,-122.6721141,45.5208677
+Maiphai,6487420436,restaurant,-122.6720744,45.52097
+No Vacancy Lounge,6487420437,bar,-122.6722863,45.5205727
+La Jarocha,6487420441,fast_food,-122.6746246,45.5216762
+Hertz,6487420442,car_rental,-122.6745147,45.5216481
+Pivot,6487420443,social_facility,-122.6751128,45.5216429
+Central Post Office,6487420444,post_office,-122.6756433,45.5219587
+Enterprise,6487438736,car_rental,-122.674934,45.5220324
+,6491174966,waste_basket,-122.6776145,45.5246305
+,6491174967,waste_basket,-122.6777779,45.5251175
+,6492417478,waste_basket,-122.6787045,45.5247637
+,6492417479,waste_basket,-122.6789308,45.5233134
+,6492855377,waste_basket,-122.678675,45.523346
+,6492855378,waste_basket,-122.6783991,45.5231655
+,6492855379,waste_basket,-122.6786086,45.5221891
+,6492855380,recycling,-122.6786219,45.5221989
+,6492855381,waste_basket,-122.6781462,45.5218887
+,6501382659,waste_basket,-122.6766162,45.5229279
+,6501382660,waste_basket,-122.676859,45.520338
+Silverado,6503394673,bar,-122.6740435,45.5206006
+Golden Dragon,6503394676,stripclub,-122.6741351,45.5204298
+Tandoor,6503394888,restaurant,-122.6754451,45.5211627
+Starbucks,6503394889,cafe,-122.6753797,45.5211102
+Health Centers of UWS,6503394890,doctors,-122.6754612,45.5209601
+,6505355678,waste_basket,-122.6765993,45.5253127
+,6517906481,waste_basket,-122.6772608,45.5228093
+,6517906482,waste_basket,-122.6765775,45.5251065
+Hertz,6520167218,car_rental,-122.6646459,45.5336915
+Little Bean,6522315869,cafe,-122.6841559,45.5287882
+Redbox,6585134984,vending_machine,-122.6622511,45.53411
+Starbucks,6585159097,cafe,-122.6542518,45.5346219
+,6634238962,bicycle_parking,-122.6536702,45.5298789
+,6656150908,telephone,-122.6755239,45.524171
+,6656150909,telephone,-122.6765291,45.5269885
+,6656150910,telephone,-122.6756235,45.5270102
+The Portland Loo,6656169509,toilets,-122.6701653,45.5216458
+,6717403471,compressed_air,-122.6658515,45.5354243
+,6720167539,bicycle_parking,-122.6836113,45.5333353
+,6720167540,bicycle_parking,-122.6836086,45.533185
+,6720167541,bicycle_parking,-122.6834906,45.533542
+,6720203634,bicycle_parking,-122.683327,45.533589
+,6720203635,bicycle_parking,-122.6832666,45.5335909
+,6720203636,bicycle_parking,-122.6832009,45.5335927
+,6734339816,bicycle_parking,-122.657834,45.531367
+,6734339817,bicycle_parking,-122.6584268,45.5313651
+,6734339818,bicycle_parking,-122.6575564,45.530839
+,6734339819,bicycle_parking,-122.6577013,45.5307235
+,6734339820,bicycle_parking,-122.6583691,45.5307451
+,6734339821,bicycle_parking,-122.658458,45.5308423
+,6734339822,bicycle_parking,-122.6584489,45.5307307
+,6734339823,bicycle_parking,-122.6575571,45.5302016
+,6734339824,bicycle_parking,-122.6568014,45.5307214
+,6734339825,bicycle_parking,-122.6568832,45.5308198
+,6734339826,bicycle_parking,-122.6599426,45.5313508
+,6734339827,bicycle_parking,-122.6602309,45.5313522
+,6734339828,bicycle_parking,-122.6603094,45.5313724
+,6761045373,bicycle_parking,-122.6533673,45.5299102
+,6761054951,bicycle_parking,-122.6580704,45.5301244
+Multnomah County Health Department,6773241856,clinic,-122.6768874,45.527688
+Barrel Room,6773241858,nightclub,-122.6737126,45.5239855
+CCC Recovery Center,6773241859,social_facility,-122.6780168,45.5228572
+Church of Scientology of Portland,6773241860,place_of_worship,-122.6745453,45.520803
+GoHealth Urgent Care,6776194608,clinic,-122.6842716,45.5306484
+Super Deluxe,6778388270,fast_food,-122.6841685,45.5291888
+Quickfish,6778388271,restaurant,-122.6841634,45.5289133
+Break Bread,6778457288,restaurant,-122.6824854,45.5271176
+River District Navigation Center,6795754859,social_facility,-122.6769352,45.5306722
+Vaux,6848961518,restaurant,-122.6805577,45.5263981
+Old Town Recovery Center,6852933921,social_facility,-122.6777175,45.5236118
+Greyhound Ticket Office,6852933922,bus_station,-122.6767578,45.5264145
+Recovery Mentor Program,6852975651,social_facility,-122.6730478,45.5239652
+Starbucks,6852975652,cafe,-122.6732361,45.5244074
+Blue Rhino,6854516931,vending_machine,-122.6598657,45.5347177
+,6854516932,atm,-122.6603841,45.5347598
+FedEx,6854516933,post_box,-122.6603609,45.5347591
+Western Union,6854516934,money_transfer,-122.6603261,45.5347629
+Bill Naito Legacy Fountain,6877018341,fountain,-122.6698416,45.5221596
+Pure Space,6895097186,events_venue,-122.6850244,45.5324
+BridgePort Brew Pub,6895097187,pub,-122.6849595,45.5309233
+,6898642533,bicycle_parking,-122.6747675,45.5392864
+Subway,6899716016,fast_food,-122.6522771,45.5352898

@@ -130,6 +130,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve labels-no-significant-digits/project.mml
 
+### Maki amenities
+
+    cd maki-amenities
+    sh download.sh
+    cd ..
+    npx kosmtik serve maki-amenities/project.mml
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
