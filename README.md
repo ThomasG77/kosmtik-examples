@@ -66,6 +66,13 @@ Then for each project, do run the following and open <http://localhost:6789>
     cd ..
     npx kosmtik serve compositing-circles/project.mml
 
+### Custom map projections
+
+    cd custom-map-projection
+    sh download.sh
+    cd ..
+    npx kosmtik serve custom-map-projection/project.mml
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
