@@ -189,6 +189,15 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve sql-on-the-fly/project.mml
 
+### SVG transforms
+
+This project depends from one of the "Colorize alpha" layer. Run it before or the sample will not work!
+
+    cd svg-transforms
+    sh download.sh
+    cd ..
+    npx kosmtik serve svg-transforms/project.mml
+
 ### Stars
 
     cd stars
