@@ -205,6 +205,13 @@ This project depends from one of the "Colorize alpha" layer. Run it before or th
     cd ..
     npx kosmtik serve svg-transforms/project.mml
 
+### Tint bands
+
+    cd tint-bands
+    sh download.sh
+    cd ..
+    npx kosmtik serve tint-bands/project.mml
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
