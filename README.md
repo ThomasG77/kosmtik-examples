@@ -173,6 +173,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve single-tint-band/project.mml
 
+### Smart halos
+
+    cd smart-halos
+    sh download.sh
+    cd ..
+    npx kosmtik serve smart-halos/project.mml
+
 ### Stars
 
     cd stars
