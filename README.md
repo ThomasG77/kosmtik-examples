@@ -73,6 +73,13 @@ Then for each project, do run the following and open <http://localhost:6789>
     cd ..
     npx kosmtik serve custom-map-projection/project.mml
 
+### Data-driven markers
+
+    cd data-driven-markers
+    sh download.sh
+    cd ..
+    npx kosmtik serve data-driven-markers/project.mml
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
