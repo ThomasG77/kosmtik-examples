@@ -24,26 +24,19 @@ Or you can use git to set the projects up within an existing documents directory
 
 Then for each project, do run the following and open <http://localhost:6789>
 
-### City name
-
-    cd city-name
-    sh download.sh
-    cd ..
-    npx kosmtik serve city-name/project.mml
-
-### Stars
-
-    cd stars
-    sh download.sh
-    cd ..
-    npx kosmtik serve stars/project.mml
-
 ### Arrrrrrr
 
     cd arrrrrrr
     sh download.sh
     cd ..
     npx kosmtik serve arrrrrrr/project.mml
+
+### City name
+
+    cd city-name
+    sh download.sh
+    cd ..
+    npx kosmtik serve city-name/project.mml
 
 ### Colorize alpha
 
@@ -152,6 +145,12 @@ Not working on kosmtik at the moment
     # cd ..
     npx kosmtik serve osm-data-browser/project.mml
 
+### Stars
+
+    cd stars
+    sh download.sh
+    cd ..
+    npx kosmtik serve stars/project.mml
 
 ## Speakers notes
 
