@@ -207,10 +207,14 @@ This project depends from one of the "Colorize alpha" layer. Run it before or th
 
 ### Tint bands
 
-    cd tint-bands
-    sh download.sh
-    cd ..
-    npx kosmtik serve tint-bands/project.mml
+    # cd tint-bands
+    # sh download.sh
+    # cd ..
+    # npx kosmtik serve tint-bands/project.mml
+    # You could run previous commented code but to avoid downloading again
+    # `10m-admin-0-countries.shp`, you can use a `localconfig.js` file to 
+    # overload default configuration to reuse `arrrrrrr/data/10m-admin-0-countries.shp`. It's done by running the following:
+    npx kosmtik serve --localconfig localconfig.js tint-bands/project.mml
 
 ## Speakers notes
 
