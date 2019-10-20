@@ -109,6 +109,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve hand-drawn-patterns/project.mml
 
+### Intensity map
+
+    cd intensity-map
+    sh download.sh
+    cd ..
+    npx kosmtik serve intensity-map/project.mml
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
