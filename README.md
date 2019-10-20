@@ -80,6 +80,18 @@ Then for each project, do run the following and open <http://localhost:6789>
     cd ..
     npx kosmtik serve data-driven-markers/project.mml
 
+### Dynamic http
+
+Not working on kosmtik at the moment
+
+### Enhance low resolution raster
+
+    cd enhance-low-res-raster
+    sh download.sh
+    cd ..
+    npx kosmtik serve enhance-low-res-raster/project.mml
+
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
