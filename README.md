@@ -123,6 +123,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve labels-along-lines/project.mml
 
+### Labels no significant digits
+
+    cd labels-no-significant-digits
+    sh download.sh
+    cd ..
+    npx kosmtik serve labels-no-significant-digits/project.mml
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
