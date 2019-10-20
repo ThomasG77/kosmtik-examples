@@ -116,6 +116,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve intensity-map/project.mml
 
+### Labels along lines
+
+    cd labels-along-lines
+    sh download.sh
+    cd ..
+    npx kosmtik serve labels-along-lines/project.mml
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
