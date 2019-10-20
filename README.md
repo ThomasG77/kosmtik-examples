@@ -102,6 +102,12 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve feature-dependent-desaturation/project.mml
 
+### Hand drawn patterns
+
+    cd hand-drawn-patterns
+    sh download.sh
+    cd ..
+    npx kosmtik serve hand-drawn-patterns/project.mml
 
 ## Speakers notes
 
