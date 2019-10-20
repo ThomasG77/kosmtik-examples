@@ -145,6 +145,13 @@ Not working on kosmtik at the moment
     # cd ..
     npx kosmtik serve osm-data-browser/project.mml
 
+### Pattern compositing smoothing
+
+    cd pattern-compositing-smoothing
+    sh download.sh
+    cd ..
+    npx kosmtik serve pattern-compositing-smoothing/project.mml
+
 ### Stars
 
     cd stars

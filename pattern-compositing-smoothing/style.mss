@@ -27,8 +27,3 @@ Map {
   polygon-gamma:.4;
   comp-op:difference;
 }
-
-
-
-
-
