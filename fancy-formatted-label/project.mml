@@ -20,16 +20,6 @@
   ],
   "Layer": [
     {
-      "id": "countries",
-      "name": "countries",
-      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
-      "geometry": "polygon",
-      "Datasource": {
-        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
-        "type": "shape"
-      }
-    },
-    {
       "extent": [
         -121.8460041,
         46.8005151,
@@ -39,10 +29,11 @@
       "id": "glaciers",
       "class": "",
       "Datasource": {
-        "file": "./layers/osm.csv"
+        "file": "./layers/osm.csv",
+        "type": "csv"
       },
       "srs-name": "autodetect",
-      "srs": "",
+      "srs": "+init=epsg:4326",
       "advanced": {},
       "name": "glaciers"
     },
@@ -56,10 +47,11 @@
       "id": "rainier",
       "class": "",
       "Datasource": {
-        "file": "layers/rainier.csv"
+        "file": "layers/rainier.csv",
+        "type": "csv"
       },
       "srs-name": "autodetect",
-      "srs": "",
+      "srs": "+init=epsg:4326",
       "advanced": {},
       "name": "rainier",
       "geometry": "point"
