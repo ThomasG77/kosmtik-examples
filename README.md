@@ -93,9 +93,6 @@ Not working on kosmtik at the moment
 
 ### Fancy formatted label
 
-    cd fancy-formatted-label
-    sh download.sh
-    cd ..
     npx kosmtik serve fancy-formatted-label/project.mml
 
 ### Feature dependent desaturation
