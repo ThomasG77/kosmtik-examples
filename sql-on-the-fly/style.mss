@@ -11,42 +11,6 @@ Map {
   polygon-fill: #fff;
 }
 
-/*
-- imported like:
-
-createdb -T template_postgis states
-shp2pgsql -s 4326 -g geom ./data/us_states_wgs84.shp states | psql states
-
-- only render multigeometries
-(select * from states
-where ST_NumGeometries(geom) > 1
-) as tmp
-
-- convert to lines, simplify
-(select ST_Simplify(ST_Boundary(geom),.2) as geom from states
-) as tmp
-
-- limit at db level with spatial query
-(select * from states where
-  ST_Intersects(geom,ST_SetSRID('Point(-122 45)'::geometry,4326))
-) as tmp
-
-- convert to points, smallest values on top:
-(select ST_Centroid(geom) as geom, persons from states
-  order by persons desc) as tmp
-
-- clip out in a 10 degree buffer around pdx
-(select
-  ST_Intersection(geom,
-    ST_Buffer(
-      ST_SetSRID('Point(-122 45)'::geometry,4326)
-   ,10)
-)
-as geom from states
-) as tmp
-
-*/
-
 #sql {
   ::poly {
     ['mapnik::geometry_type'=polygon] {

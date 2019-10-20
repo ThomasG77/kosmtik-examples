@@ -180,6 +180,15 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve smart-halos/project.mml
 
+### SQL on the fly
+
+    # Need a PostgreSQL database with PostGIS
+    cd sql-on-the-fly
+    sh download.sh
+    sh process.sh
+    cd ..
+    npx kosmtik serve sql-on-the-fly/project.mml
+
 ### Stars
 
     cd stars
@@ -199,12 +208,4 @@ These projects specifically require setup:
 
 ```sh
 python project/dynamic-http/server.py
-```
-
-1. `sql-on-the-fly` requires creating a postgres db and importing a shapefile:
-
-```sh
-cd ./sql-on-the-fly
-createdb -T template_postgis states
-shp2pgsql -g geom -s 4326 ./data/us_states_wgs84.shp states | psql states
 ```
