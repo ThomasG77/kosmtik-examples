@@ -137,6 +137,13 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve maki-amenities/project.mml
 
+### Octocat mask
+
+    cd octocat-mask
+    sh download.sh
+    cd ..
+    npx kosmtik serve octocat-mask/project.mml
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
