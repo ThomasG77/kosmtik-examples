@@ -4,5 +4,6 @@ tmp
 package-lock.json
 node_modules
 */data/
+!sql-on-the-fly/data/us_states_wgs84.*
 stars/layers/hygxyz.csv
 colorize-alpha/layers/wf_all_1980_2016.*
