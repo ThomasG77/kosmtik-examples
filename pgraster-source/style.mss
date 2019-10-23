@@ -1,0 +1,128 @@
+Map {
+  background-color: white;
+}
+
+#gray50msrobdefault {
+  raster-opacity:1;
+  raster-colorizer-default-mode:linear;
+  raster-colorizer-default-color: transparent;
+}
+
+#gray50msrob {
+  raster-opacity:1;
+  raster-colorizer-default-mode:linear;
+  raster-colorizer-default-color: transparent;
+  raster-colorizer-stops:
+    stop(56, #000004)
+    stop(59.8039132, #02020b)
+    stop(63.6078458, #050416)
+    stop(67.411759, #090720)
+    stop(71.2156916, #0e0b2b)
+    stop(75.0196048, #140e36)
+    stop(78.823518, #1a1042)
+    stop(82.62747, #21114e)
+    stop(86.431422, #29115a)
+    stop(90.235374, #311165)
+    stop(94.039132, #390f6e)
+    stop(97.843084, #420f75)
+    stop(101.647036, #4a1079)
+    stop(105.450988, #52137c)
+    stop(109.25494, #5a167e)
+    stop(113.058892, #621980)
+    stop(116.86265, #6a1c81)
+    stop(120.666602, #721f81)
+    stop(124.470554, #792282)
+    stop(128.274506, #812581)
+    stop(132.078458, #892881)
+    stop(135.88241, #912b81)
+    stop(139.686362, #992d80)
+    stop(143.49012, #a1307e)
+    stop(147.294072, #aa337d)
+    stop(151.098024, #b2357b)
+    stop(154.901976, #ba3878)
+    stop(158.705928, #c23b75)
+    stop(162.50988, #ca3e72)
+    stop(166.313638, #d2426f)
+    stop(170.11759, #d9466b)
+    stop(173.921542, #e04c67)
+    stop(177.725494, #e75263)
+    stop(181.529446, #ec5860)
+    stop(185.333398, #f1605d)
+    stop(189.13735, #f4695c)
+    stop(192.941108, #f7725c)
+    stop(196.74506, #f97b5d)
+    stop(200.549012, #fb8560)
+    stop(204.352964, #fc8e64)
+    stop(208.156916, #fd9869)
+    stop(211.960868, #fea16e)
+    stop(215.764626, #feaa74)
+    stop(219.568578, #feb47b)
+    stop(223.37253, #febd82)
+    stop(227.176482, #fec68a)
+    stop(230.980434, #fecf92)
+    stop(234.784386, #fed89a)
+    stop(238.588144, #fde2a3)
+    stop(242.392096, #fdebac)
+    stop(246.196048, #fcf4b6)
+    stop(250, #fcfdbf)
+}
+
+#gray50msrobtif {
+  raster-opacity:1;
+  raster-comp-op:invert;
+  raster-colorizer-default-mode:linear;
+  raster-colorizer-default-color: transparent;
+  raster-colorizer-stops:
+    stop(56, #440154)
+    stop(59.8039132, #46085c)
+    stop(63.6078458, #471063)
+    stop(67.411759, #481769)
+    stop(71.2156916, #481d6f)
+    stop(75.0196048, #482475)
+    stop(78.823518, #472a7a)
+    stop(82.62747, #46307e)
+    stop(86.431422, #453781)
+    stop(90.235374, #433d84)
+    stop(94.039132, #414287)
+    stop(97.843084, #3f4889)
+    stop(101.647036, #3d4e8a)
+    stop(105.450988, #3a538b)
+    stop(109.25494, #38598c)
+    stop(113.058892, #355e8d)
+    stop(116.86265, #33638d)
+    stop(120.666602, #31688e)
+    stop(124.470554, #2e6d8e)
+    stop(128.274506, #2c718e)
+    stop(132.078458, #2a768e)
+    stop(135.88241, #297b8e)
+    stop(139.686362, #27808e)
+    stop(143.49012, #25848e)
+    stop(147.294072, #23898e)
+    stop(151.098024, #218e8d)
+    stop(154.901976, #20928c)
+    stop(158.705928, #1f978b)
+    stop(162.50988, #1e9c89)
+    stop(166.313638, #1fa188)
+    stop(170.11759, #21a585)
+    stop(173.921542, #24aa83)
+    stop(177.725494, #28ae80)
+    stop(181.529446, #2eb37c)
+    stop(185.333398, #35b779)
+    stop(189.13735, #3dbc74)
+    stop(192.941108, #46c06f)
+    stop(196.74506, #50c46a)
+    stop(200.549012, #5ac864)
+    stop(204.352964, #65cb5e)
+    stop(208.156916, #70cf57)
+    stop(211.960868, #7cd250)
+    stop(215.764626, #89d548)
+    stop(219.568578, #95d840)
+    stop(223.37253, #a2da37)
+    stop(227.176482, #b0dd2f)
+    stop(230.980434, #bddf26)
+    stop(234.784386, #cae11f)
+    stop(238.588144, #d8e219)
+    stop(242.392096, #e5e419)
+    stop(246.196048, #f1e51d)
+    stop(250, #fde725)
+}

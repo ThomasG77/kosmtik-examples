@@ -152,6 +152,14 @@ Not working on kosmtik at the moment
     cd ..
     npx kosmtik serve pattern-compositing-smoothing/project.mml
 
+### Postgis raster datasource
+
+    # Need a PostgreSQL database with PostGIS (if PostGIS 3, uncomment line mentioning it in `pgraster-source/download.sh`)
+    cd pgraster-source
+    sh download.sh
+    cd ..
+    npx kosmtik serve pgraster-source/project.mml
+
 ### Proportional symbol
 
     cd proportional-symbol

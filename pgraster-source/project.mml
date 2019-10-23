@@ -1,0 +1,68 @@
+{
+  "bounds": [
+    -180,
+    -85.05112877980659,
+    180,
+    85.05112877980659
+  ],
+  "center": [
+    0,
+    0,
+    2
+  ],
+  "format": "png",
+  "interactivity": {},
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "id": "gray50msrobdefault",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "geometry": "raster",
+      "Datasource": {
+        "type": "pgraster",
+        "band": 0,
+        "table": "(SELECT \"rast\" FROM gray_50m_sr_ob WHERE \"rast\" && !bbox!) as rast",
+        "dbname": "rasterdb",
+        "host": "localhost",
+        "user": "osm",
+        "password": "osm"
+      },
+      "status": "off"
+    },
+    {
+      "id": "gray50msrob",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "geometry": "raster",
+      "Datasource": {
+        "type": "pgraster",
+        "band": 1,
+        "table": "(SELECT \"rast\" FROM gray_50m_sr_ob WHERE \"rast\" && !bbox!) as rast",
+        "dbname": "rasterdb",
+        "host": "localhost",
+        "user": "osm",
+        "password": "osm"
+      },
+      "status": "on"
+    },
+    {
+      "id": "gray50msrobtif",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "geometry": "raster",
+      "Datasource": {
+        "type": "raster",
+        "file": "data/GRAY_50M_SR_OB.tif"
+      },
+      "status": "on"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "",
+  "description": "",
+  "legend": ""
+}
