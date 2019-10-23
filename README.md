@@ -216,6 +216,19 @@ This project depends from one of the "Colorize alpha" layer. Run it before or th
     # overload default configuration to reuse `arrrrrrr/data/10m-admin-0-countries.shp`. It's done by running the following:
     npx kosmtik serve --localconfig localconfig.js tint-bands/project.mml
 
+## Export demo projects to XML
+
+You can see an example below:
+	
+	# Using kosmtik
+    npx kosmtik export tint-bands/project.mml --format xml > tint-bands/project.xml
+    # Using carto (if `npm i carto`)
+    npx carto tint-bands/project.mml > tint-bands/project.xml
+
+## Export demo projects to png
+
+    npx kosmtik export tint-bands/project.mml --localconfig localconfig.js --width 4000 --height 2400 --output /tmp/out.png --bounds=-180,-35,180,70 --format png --scale 4 --zoom 4
+
 ## Speakers notes
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
