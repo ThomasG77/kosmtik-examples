@@ -24,6 +24,18 @@ Or you can use git to set the projects up within an existing documents directory
 
 Then for each project, do run the following and open <http://localhost:6789>
 
+Alternate setup could be using docker in particular on Windows (because https://github.com/mapnik/node-mapnik/issues/848) e.g
+
+```
+docker run --rm -it \
+    -p 6789:6789 -v your_absolute_path_to_tilemill_examples_repo/city-name:/opt/project \
+    -e USER_ID=1000 \
+    joxit/kosmtik \
+    kosmtik serve /opt/project/project.mml --host 0.0.0.0
+```
+
+Be careful as we don't plan to document heavily docker usage (in particular how to use PostGIS samples with kosmtik) except if we got contributions (PS: working on Linux box hence this viewpoint).
+
 ### Arrrrrrr
 
     cd arrrrrrr
