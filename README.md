@@ -1,22 +1,21 @@
-# tilemill-examples
+# kosmtik-examples
 
-This is a set of TileMill projects that demonstrate various types of advanced
-functionality and fun hacks in TileMill. The examples are mostly self-contained
-and should mostly work offline. See the Speakers Notes below for project-specific setup that might be needed in a few places.
+This is a set of Tilemill projects now migrated to use Kosmtik that demonstrate various types of advanced functionality. The examples are mostly self-contained
+and should mostly work offline. See the instructions below for project-specific setup that might be needed in a few places.
 
 
 ## Usage
 
-You can either download this directory and point TileMill's documents setting at it.
+You can either download this directory and point Kosmtik's documents setting at it.
 
 Or you can use git to set the projects up within an existing documents directory.
 
 ## Setup in existing project directory
 
     cd your_directory
-    git clone https://github.com/ThomasG77/tilemill-examples.git
+    git clone https://github.com/ThomasG77/kosmtik-examples.git
     nvm use lts/carbon
-    cd tilemill-examples
+    cd kosmtik-examples
     npm i
     cd node_modules/kosmtik/
     npm i
@@ -253,12 +252,16 @@ You can see an example below:
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
 
-If you encounter a project that does not load and is missing a README with setup instructions, then feel free to create an [issue](https://github.com/springmeyer/tilemill-examples/issues) and I will add some details.
+If you encounter a project that does not load and is missing a README with setup instructions, then feel free to create an [issue](https://github.com/ThomasG77/tilemill-examples/issues) and I will add some details.
 
 These projects specifically require setup:
 
 1. `dynamic-http` requires running a local python server in order to support data refresh:
 
 ```sh
-python project/dynamic-http/server.py
+python dynamic-http/server.py
 ```
+
+## Credits
+
+* Dane Springmeyer for most work at original repository <https://github.com/springmeyer/tilemill-examples/> (PS: we made some additional samples but this repo is more an update at the moment)
