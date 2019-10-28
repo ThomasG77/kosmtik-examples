@@ -252,7 +252,7 @@ You can see an example below:
 
 Some project directories contain setup scripts (e.g. `convert.py`) and other notes (e.g. `notes.md`)
 
-If you encounter a project that does not load and is missing a README with setup instructions, then feel free to create an [issue](https://github.com/ThomasG77/tilemill-examples/issues) and I will add some details.
+If you encounter a project that does not load and is missing a README with setup instructions, then feel free to create an [issue](https://github.com/ThomasG77/kosmtik-examples/issues) and I will add some details.
 
 These projects specifically require setup:
 
@@ -264,4 +264,4 @@ python dynamic-http/server.py
 
 ## Credits
 
-* Dane Springmeyer for most work at original repository <https://github.com/springmeyer/tilemill-examples/> (PS: we made some additional samples but this repo is more an update at the moment)
+* Dane Springmeyer for most work at original repository <https://github.com/ThomasG77/kosmtik-examples/> (PS: we made some additional samples but this repo is more an update at the moment)
